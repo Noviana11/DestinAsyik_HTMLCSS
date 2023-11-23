@@ -1,0 +1,1019 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.konfirmasi-pembayaran-ELh {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 {
+  margin-bottom: 3.6rem;
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .rectangle-4-GoB {
+  width: 150.5rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #ffffff;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .logo-destinasyik-2-Pcu {
+  width: 11.6rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .beranda-u5T {
+  width: 9.8rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 86rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .kontak-Q2D {
+  width: 8.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 97.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .tentang-7SR {
+  width: 9.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 107.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .tour-guide-1Xo {
+  width: 12.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 118.9rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .male-user-u7P {
+  width: 5.8rem;
+  height: 5.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.6rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .header-qFw {
+  width: 150.5rem;
+  height: 11.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .header-qFw .rectangle-4-mvH {
+  width: 150.5rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #ffffff;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .header-qFw .logo-destinasyik-2-gGZ {
+  width: 11.6rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .header-qFw .beranda-D1b {
+  width: 9.8rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 86rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .header-qFw .kontak-u9K {
+  width: 8.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 97.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .header-qFw .tentang-dLD {
+  width: 9.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 107.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .header-qFw .tour-guide-MX7 {
+  width: 12.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 118.9rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .header-Mw7 .header-qFw .male-user-aPs {
+  width: 5.8rem;
+  height: 5.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.6rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .konfirmasi-pembayaran-V13 {
+  margin-left: 8.6rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw {
+  box-sizing: border-box;
+  padding: 8rem 9.4rem 6.6rem 7.6rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK {
+  margin-bottom: 6.6rem;
+  width: 100%;
+  height: 55.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 {
+  margin-right: 3.5rem;
+  width: 46.2rem;
+  height: 100%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .auto-group-jldf-R37 {
+  margin-bottom: 2.25rem;
+  width: 100%;
+  height: 6.9rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3487db;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .metode-pembayaran-gzd {
+  margin-left: 3rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .auto-group-kdcm-o3f {
+  box-sizing: border-box;
+  padding: 0.65rem 4rem 3.8rem 3rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .auto-group-kdcm-o3f .bni-logo-1-Jm7 {
+  margin-bottom: 1.25rem;
+  width: 14rem;
+  height: 4.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 0.5rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .auto-group-kdcm-o3f .nama-pemesan-cG1 {
+  margin-bottom: 0.65rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .auto-group-kdcm-o3f .group-18-j5j {
+  margin-bottom: 0.65rem;
+  box-sizing: border-box;
+  padding: 1.133rem 1.062rem 1.067rem 1.062rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #276561;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .auto-group-kdcm-o3f .nomor-rekening-kFj {
+  margin-bottom: 0.65rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .auto-group-kdcm-o3f .group-21-UBj {
+  margin-bottom: 0.35rem;
+  box-sizing: border-box;
+  padding: 1.133rem 1.062rem 1.067rem 1.062rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #276561;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .auto-group-kdcm-o3f .jumlah-tagihan-h4V {
+  margin-bottom: 0.65rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .auto-group-kdcm-o3f .group-22-RWH {
+  margin-bottom: 2rem;
+  box-sizing: border-box;
+  padding: 1.133rem 1.062rem 1.067rem 1.062rem;
+  width: 100%;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #276561;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-5E9 .auto-group-kdcm-o3f .group-23-hyb {
+  width: 100%;
+  height: 6.6rem;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.3625;
+  color: #ffffff;
+  font-family: Nunito, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3487db;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 {
+  box-sizing: border-box;
+  padding: 0.8rem 2.8rem 1.25rem 2.5rem;
+  width: 77.3rem;
+  height: 100%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .auto-group-bhgd-gKj {
+  margin: 0rem 23.1rem 2.217rem 1.4rem;
+  width: calc(100% - 24.5rem);
+  height: 16.3833rem;
+  display: flex;
+  align-items: center;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .auto-group-bhgd-gKj .auto-group-kerm-zbK {
+  margin-right: 15.2rem;
+  width: 14.4rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .auto-group-bhgd-gKj .auto-group-kerm-zbK .logo-destinasyik-2-tq7 {
+  width: 11.6rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 2.8rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .auto-group-bhgd-gKj .auto-group-kerm-zbK .dimas-prayoga-sukajaya-lampung-628x-xxxx-xxxx-GKs {
+  width: 12.9rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 0;
+  top: 11.0833rem;
+  display: flex;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .auto-group-bhgd-gKj .auto-group-kerm-zbK .dimas-prayoga-sukajaya-lampung-628x-xxxx-xxxx-GKs .dimas-prayoga-sukajaya-lampung-628x-xxxx-xxxx-GKs-sub-0 {
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .auto-group-bhgd-gKj .auto-group-kerm-zbK .dimas-prayoga-sukajaya-lampung-628x-xxxx-xxxx-GKs .dimas-prayoga-sukajaya-lampung-628x-xxxx-xxxx-GKs-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .auto-group-bhgd-gKj .faktur-pemesanan-MVj {
+  margin-bottom: 6.6833rem;
+  display: flex;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm {
+  margin: 0rem 0.5rem 4.5rem 1.457rem;
+  width: calc(100% - 1.9565rem);
+  height: 25.7499rem;
+  position: relative;
+  border-top: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .rectangle-53-Kqs {
+  width: 69.9869rem;
+  height: 25.7499rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .sub-total-administrasi-total-UCy {
+  width: 8.2rem;
+  height: 5.1rem;
+  position: absolute;
+  left: 46.2999rem;
+  top: 20.6142rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2102272851;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .sub-total-administrasi-total-UCy .sub-total-administrasi-total-UCy-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .sub-total-administrasi-total-UCy .sub-total-administrasi-total-UCy-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .sub-total-administrasi-total-UCy .sub-total-administrasi-total-UCy-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .orang-silver-rp-150000-Tz1 {
+  width: 11.1rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 41.3935rem;
+  top: 4.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .orang-silver-rp-150000-Tz1 .orang-silver-rp-150000-Tz1-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .orang-silver-rp-150000-Tz1 .orang-silver-rp-150000-Tz1-sub-1 {
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .rp-150000-Qnm {
+  width: 8.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 58.3935rem;
+  top: 5.1rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .rp-250000-uzR {
+  width: 8.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 58.2935rem;
+  top: 10.8rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .rp-400000-CyX {
+  width: 8.7rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 58.3435rem;
+  top: 16.8rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .rp-800000-vuX {
+  width: 8.7rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 58.3935rem;
+  top: 20.6rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .rp-802500-Fgu {
+  width: 8.6rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 58.4935rem;
+  top: 23.8rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .rp-2500-jc5 {
+  width: 8.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 58.4435rem;
+  top: 22.2rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .orang-platinum-rp-400000-3sf {
+  width: 13.2rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 40.8435rem;
+  top: 15.9rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .orang-platinum-rp-400000-3sf .orang-platinum-rp-400000-3sf-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .orang-platinum-rp-400000-3sf .orang-platinum-rp-400000-3sf-sub-1 {
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .orang-emas-rp-250000-pX3 {
+  width: 10.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 41.9435rem;
+  top: 10.3rem;
+  text-align: center;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .orang-emas-rp-250000-pX3 .orang-emas-rp-250000-pX3-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .orang-emas-rp-250000-pX3 .orang-emas-rp-250000-pX3-sub-1 {
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .detail-harga-zK3 {
+  width: 8.4rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 42.5435rem;
+  top: 1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .total-ugu {
+  width: 3.5rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 60.6435rem;
+  top: 1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .pesanan-nVo {
+  width: 5.9rem;
+  height: 1.7rem;
+  position: absolute;
+  left: 7.2435rem;
+  top: 1rem;
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .line-17-hcm {
+  width: 63.5rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 6.5435rem;
+  top: 3.7rem;
+  background-color: #000000;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .line-18-qU5 {
+  width: 0;
+  height: 25.7rem;
+  position: absolute;
+  left: 6.5435rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .line-26-Sim {
+  width: 0;
+  height: 25.7rem;
+  position: absolute;
+  left: 69.9435rem;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .line-22-bLm {
+  width: 0.0565rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 38.6435rem;
+  top: 0;
+  background-color: #000000;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .line-23-LJM {
+  width: 0.0607rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 55.232rem;
+  top: 0;
+  background-color: #000000;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .line-19-HDb {
+  width: 63.3697rem;
+  height: 0.2586rem;
+  position: absolute;
+  left: 6.6171rem;
+  top: 8.9507rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .line-20-1QV {
+  width: 63.3485rem;
+  height: 0.2585rem;
+  position: absolute;
+  left: 6.6385rem;
+  top: 14.8713rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .line-21-X7w {
+  width: 63.337rem;
+  height: 0.1369rem;
+  position: absolute;
+  left: 6.5935rem;
+  top: 20.2925rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .line-24-47s {
+  width: 63.337rem;
+  height: 0.1369rem;
+  position: absolute;
+  left: 6.5935rem;
+  top: 25.5925rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-27-nov-2023-NeM {
+  width: 9.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 7.8435rem;
+  top: 15.6rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-27-nov-2023-NeM .tujuan-wisata-27-nov-2023-NeM-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-27-nov-2023-NeM .tujuan-wisata-27-nov-2023-NeM-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-27-nov-2023-NeM .tujuan-wisata-27-nov-2023-NeM-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-27-nov-2023-NeM .tujuan-wisata-27-nov-2023-NeM-sub-3 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-26-nov-2023-aP3 {
+  width: 9.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 7.8435rem;
+  top: 10rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-26-nov-2023-aP3 .tujuan-wisata-26-nov-2023-aP3-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-26-nov-2023-aP3 .tujuan-wisata-26-nov-2023-aP3-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-26-nov-2023-aP3 .tujuan-wisata-26-nov-2023-aP3-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-26-nov-2023-aP3 .tujuan-wisata-26-nov-2023-aP3-sub-3 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-24-nov-2023-yZb {
+  width: 9.9rem;
+  height: 3.4rem;
+  position: absolute;
+  left: 7.8435rem;
+  top: 4.9rem;
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2102272851;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-24-nov-2023-yZb .tujuan-wisata-24-nov-2023-yZb-sub-0 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-24-nov-2023-yZb .tujuan-wisata-24-nov-2023-yZb-sub-1 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-24-nov-2023-yZb .tujuan-wisata-24-nov-2023-yZb-sub-2 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .group-25-TYm .tujuan-wisata-24-nov-2023-yZb .tujuan-wisata-24-nov-2023-yZb-sub-3 {
+  font-size: 1.4rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-tyhp-XyK .group-19-NK3 .harap-segera-lakukan-pembayaran-untuk-dapat-melakukan-cetak-kartu-pada-faktur-pemesanan-berikan-kartu-pemesan-kepada-petugas-pemandu-wisata-untuk-dapat-menikmati-perjalanan-anda-informasi-lebih-lanjut-dapat-hubungi-destinasyik-melalui-laman-website-resmi-ksB {
+  max-width: 72rem;
+  display: flex;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.26;
+  color: #000000;
+  font-family: Plus Jakarta Sans, 'Source Sans Pro';
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-bckk-mnH {
+  margin: 0rem 49.3rem 0rem 51.1rem;
+  width: calc(100% - 100.4rem);
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-bckk-mnH .auto-group-bvm7-Uwb {
+  margin-right: 1.3rem;
+  width: 12.7rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #e3e3e3;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .auto-group-fqwb-DBw .auto-group-bckk-mnH .auto-group-xthw-vob {
+  width: 12.6rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #f2f2f2;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .footer-14M {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 0rem 0rem;
+  width: 145.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .layer-2-2-77P {
+  margin: 3.9rem 27.5rem 0rem 0rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .copyright-PKo {
+  margin: 0rem 0.3rem 1.2rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .auto-group-ccxh-v4q {
+  margin: 0rem 27.4rem 3.2rem 0rem;
+  width: 14.2rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .auto-group-ccxh-v4q .auto-group-tyrm-TKf {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .auto-group-ccxh-v4q .auto-group-tyrm-TKf .webcrafters-QVo {
+  width: 14.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 9.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .auto-group-ccxh-v4q .auto-group-tyrm-TKf .logo-destinasyik-3-imP {
+  width: 11.4rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .auto-group-ccxh-v4q .auto-group-2wyh-euw {
+  margin-left: 0.6rem;
+  display: flex;
+  align-items: center;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .auto-group-ccxh-v4q .auto-group-2wyh-euw .instagram-MpM {
+  margin-right: 0.9rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .auto-group-ccxh-v4q .auto-group-2wyh-euw .tiktok-6mw {
+  margin-right: 1.3rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .auto-group-ccxh-v4q .auto-group-2wyh-euw .whatsapp-eHf {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pembayaran-ELh .footer-14M .layer-2-1-ax1 {
+  margin-top: 3.9rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

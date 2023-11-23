@@ -1,0 +1,1237 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pembayaran-2-b2y {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+
+  .header-gaD {
+    width: 100%;
+    height: 11.9rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .rectangle-4-E5w {
+      width: 150.5rem;
+      height: 11.6rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      box-shadow: 0 0.4rem 0.4rem #3a86d4;
+      background-color: #ffffff;
+    }
+    .logo-destinasyik-2-KdB {
+      object-fit: cover;
+      vertical-align: top;
+      width: 11.6rem;
+      height: 11.6rem;
+      position: absolute;
+      left: 2rem;
+      top: 0.3rem;
+    }
+    .beranda-r7K {
+      height: 3rem;
+      cursor: pointer;
+      font-weight: 700;
+      white-space: nowrap;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      width: 9.8rem;
+      position: absolute;
+      left: 86rem;
+      top: 4.4rem;
+      font-size: 2.4rem;
+      line-height: 1.2125;
+    }
+    .kontak-wuT {
+      font-size: 2.4rem;
+      height: 3rem;
+      left: 97.5rem;
+      top: 4.4rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 8.3rem;
+      position: absolute;
+    }
+    .tentang-Fv9 {
+      width: 9.7rem;
+      top: 4.4rem;
+      font-weight: 700;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      height: 3rem;
+      position: absolute;
+      left: 107.5rem;
+      font-size: 2.4rem;
+      line-height: 1.2125;
+    }
+    .tour-guide-kc1 {
+      position: absolute;
+      top: 4.4rem;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      height: 3rem;
+      left: 118.9rem;
+      font-size: 2.4rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      width: 12.9rem;
+    }
+    .male-user-3r1 {
+      width: 5.8rem;
+      height: 5.8rem;
+      cursor: pointer;
+      position: absolute;
+      left: 134.6rem;
+      top: 2.6rem;
+      object-fit: contain;
+      vertical-align: top;
+    }
+  }
+  .auto-group-fc3k-ab3 {
+    width: 100%;
+    height: 66.5rem;
+    position: relative;
+    flex-shrink: 0;
+
+    .pembayaran-WUh {
+      font-weight: 700;
+      color: #000000;
+      width: 30.5rem;
+      height: 6.1rem;
+      position: absolute;
+      left: 7.2rem;
+      white-space: nowrap;
+      top: 2.4rem;
+      font-size: 5rem;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+    }
+    .tanggal--zPs {
+      width: 11.2rem;
+      position: absolute;
+      top: 10.9rem;
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      height: 3.1rem;
+      left: 7.8rem;
+      font-size: 2.5rem;
+      font-weight: 700;
+    }
+    .rectangle-50-WND {
+      left: 7.8rem;
+      top: 15.4rem;
+      background-color: #ffffff;
+      border-radius: 1.6rem;
+      width: 42.9rem;
+      height: 33.5rem;
+      position: absolute;
+    }
+    .frame-12-QTb {
+      left: 10.1rem;
+      top: 42.5rem;
+      display: flex;
+      column-gap: 1.2rem;
+      align-items: center;
+      width: 27.3rem;
+      height: 5rem;
+      position: absolute;
+
+      .component-1-6rD {
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        cursor: pointer;
+        color: #000000;
+        flex-shrink: 0;
+        line-height: 1.2125;
+        justify-content: center;
+        display: flex;
+        align-items: center;
+        font-size: 2.4rem;
+        font-weight: 500;
+        background-color: #ffffff;
+        width: 4.5rem;
+        height: 100%;
+      }
+      .component-3-amP {
+        background-color: #ffffff;
+        cursor: pointer;
+        font-size: 2.4rem;
+        align-items: center;
+        justify-content: center;
+        width: 4.5rem;
+        font-weight: 500;
+        flex-shrink: 0;
+        height: 100%;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        line-height: 1.2125;
+        display: flex;
+      }
+      .component-4-GeD {
+        height: 100%;
+        font-weight: 500;
+        display: flex;
+        white-space: nowrap;
+        align-items: center;
+        background-color: #ffffff;
+        width: 4.5rem;
+        font-family: Inter, 'Source Sans Pro';
+        cursor: pointer;
+        font-size: 2.4rem;
+        line-height: 1.2125;
+        color: #000000;
+        justify-content: center;
+        flex-shrink: 0;
+      }
+      .component-5-zKK {
+        font-weight: 500;
+        width: 4.5rem;
+        height: 100%;
+        display: flex;
+        flex-shrink: 0;
+        color: #000000;
+        white-space: nowrap;
+        font-family: Inter, 'Source Sans Pro';
+        align-items: center;
+        line-height: 1.2125;
+        justify-content: center;
+        background-color: #ffffff;
+        cursor: pointer;
+        font-size: 2.4rem;
+      }
+      .component-6-fAZ {
+        width: 4.5rem;
+        cursor: pointer;
+        font-weight: 500;
+        justify-content: center;
+        flex-shrink: 0;
+        font-size: 2.4rem;
+        white-space: nowrap;
+        align-items: center;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        background-color: #ffffff;
+        height: 100%;
+        display: flex;
+      }
+    }
+    .frame-9-LnV {
+      top: 38.2rem;
+      display: flex;
+      column-gap: 1.2rem;
+      align-items: center;
+      width: 38.7rem;
+      height: 5rem;
+      position: absolute;
+      left: 10.1rem;
+
+      .component-1-GAM {
+        line-height: 1.2125;
+        justify-content: center;
+        flex-shrink: 0;
+        display: flex;
+        align-items: center;
+        width: 4.5rem;
+        cursor: pointer;
+        font-weight: 500;
+        font-family: Inter, 'Source Sans Pro';
+        height: 100%;
+        font-size: 2.4rem;
+        color: #000000;
+        white-space: nowrap;
+        background-color: #ffffff;
+      }
+      .component-3-io3 {
+        cursor: pointer;
+        font-weight: 500;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        align-items: center;
+        width: 4.5rem;
+        justify-content: center;
+        height: 100%;
+        color: #000000;
+        background-color: #ffffff;
+        flex-shrink: 0;
+        font-size: 2.4rem;
+        white-space: nowrap;
+        display: flex;
+      }
+      .component-4-Sj3 {
+        width: 4.5rem;
+        line-height: 1.2125;
+        white-space: nowrap;
+        flex-shrink: 0;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        display: flex;
+        background-color: #ffffff;
+        height: 100%;
+        font-size: 2.4rem;
+        font-weight: 500;
+        justify-content: center;
+        cursor: pointer;
+        align-items: center;
+      }
+      .component-5-AQ9 {
+        background-color: #ffffff;
+        height: 100%;
+        font-weight: 500;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        line-height: 1.2125;
+        white-space: nowrap;
+        display: flex;
+        justify-content: center;
+        font-size: 2.4rem;
+        align-items: center;
+        width: 4.5rem;
+        cursor: pointer;
+        flex-shrink: 0;
+      }
+      .component-6-rnm {
+        color: #000000;
+        align-items: center;
+        height: 100%;
+        white-space: nowrap;
+        display: flex;
+        background-color: #ffffff;
+        cursor: pointer;
+        font-size: 2.4rem;
+        line-height: 1.2125;
+        justify-content: center;
+        flex-shrink: 0;
+        width: 4.5rem;
+        font-family: Inter, 'Source Sans Pro';
+        font-weight: 500;
+      }
+      .component-7-Nm7 {
+        font-weight: 500;
+        background-color: #e1edff;
+        color: #424242;
+        align-items: center;
+        width: 4.5rem;
+        cursor: pointer;
+        white-space: nowrap;
+        display: flex;
+        justify-content: center;
+        flex-shrink: 0;
+        height: 100%;
+        font-size: 2.4rem;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .component-8-Up9 {
+        flex-shrink: 0;
+        display: flex;
+        justify-content: center;
+        font-size: 2.4rem;
+        font-weight: 500;
+        line-height: 1.2125;
+        color: #000000;
+        background-color: #ffffff;
+        width: 4.5rem;
+        height: 100%;
+        white-space: nowrap;
+        align-items: center;
+        cursor: pointer;
+        font-family: Inter, 'Source Sans Pro';
+      }
+    }
+    .frame-11-n49 {
+      height: 5rem;
+      position: absolute;
+      left: 10.2rem;
+      top: 33.2rem;
+      display: flex;
+      column-gap: 1.2rem;
+      align-items: center;
+      width: 38.7rem;
+
+      .component-1-fdj {
+        height: 100%;
+        font-size: 2.4rem;
+        line-height: 1.2125;
+        white-space: nowrap;
+        font-family: Inter, 'Source Sans Pro';
+        display: flex;
+        cursor: pointer;
+        justify-content: center;
+        background-color: #ffffff;
+        width: 4.5rem;
+        font-weight: 500;
+        color: #000000;
+        align-items: center;
+        flex-shrink: 0;
+      }
+      .component-3-xsj {
+        line-height: 1.2125;
+        background-color: #ffffff;
+        white-space: nowrap;
+        display: flex;
+        height: 100%;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.4rem;
+        justify-content: center;
+        font-weight: 500;
+        color: #000000;
+        align-items: center;
+        flex-shrink: 0;
+        width: 4.5rem;
+        cursor: pointer;
+      }
+      .component-4-fGM {
+        width: 4.5rem;
+        cursor: pointer;
+        display: flex;
+        height: 100%;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        align-items: center;
+        background-color: #ffffff;
+        font-size: 2.4rem;
+        font-weight: 500;
+        line-height: 1.2125;
+        justify-content: center;
+        flex-shrink: 0;
+      }
+      .component-5-maH {
+        font-family: Inter, 'Source Sans Pro';
+        flex-shrink: 0;
+        height: 100%;
+        background-color: #ffffff;
+        line-height: 1.2125;
+        cursor: pointer;
+        font-weight: 500;
+        width: 4.5rem;
+        color: #000000;
+        white-space: nowrap;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 2.4rem;
+      }
+      .component-6-DBP {
+        height: 100%;
+        font-size: 2.4rem;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 500;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        width: 4.5rem;
+        cursor: pointer;
+        line-height: 1.2125;
+        color: #000000;
+        background-color: #ffffff;
+        flex-shrink: 0;
+      }
+      .component-7-8JM {
+        font-weight: 500;
+        font-size: 2.4rem;
+        height: 100%;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        align-items: center;
+        width: 4.5rem;
+        line-height: 1.2125;
+        color: #000000;
+        display: flex;
+        justify-content: center;
+        background-color: #ffffff;
+        flex-shrink: 0;
+        cursor: pointer;
+      }
+      .component-8-S49 {
+        color: #000000;
+        flex-shrink: 0;
+        cursor: pointer;
+        font-size: 2.4rem;
+        font-weight: 500;
+        line-height: 1.2125;
+        align-items: center;
+        background-color: #ffffff;
+        width: 4.5rem;
+        height: 100%;
+        display: flex;
+        justify-content: center;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+    }
+    .frame-10-wFo {
+      align-items: center;
+      width: 38.7rem;
+      height: 5rem;
+      position: absolute;
+      left: 10.1rem;
+      top: 28.7rem;
+      display: flex;
+      column-gap: 1.2rem;
+
+      .component-1-4LR {
+        line-height: 1.2125;
+        display: flex;
+        height: 100%;
+        font-weight: 500;
+        font-family: Inter, 'Source Sans Pro';
+        align-items: center;
+        width: 4.5rem;
+        cursor: pointer;
+        font-size: 2.4rem;
+        white-space: nowrap;
+        flex-shrink: 0;
+        color: #000000;
+        justify-content: center;
+        background-color: #ffffff;
+      }
+      .component-3-vtR {
+        cursor: pointer;
+        font-size: 2.4rem;
+        line-height: 1.2125;
+        justify-content: center;
+        flex-shrink: 0;
+        width: 4.5rem;
+        height: 100%;
+        font-weight: 500;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        background-color: #ffffff;
+        white-space: nowrap;
+        display: flex;
+        align-items: center;
+      }
+      .component-4-2Rf {
+        font-size: 2.4rem;
+        font-weight: 500;
+        font-family: Inter, 'Source Sans Pro';
+        display: flex;
+        flex-shrink: 0;
+        width: 4.5rem;
+        height: 100%;
+        line-height: 1.2125;
+        color: #000000;
+        white-space: nowrap;
+        align-items: center;
+        cursor: pointer;
+        justify-content: center;
+        background-color: #ffffff;
+      }
+      .component-5-MD3 {
+        color: #000000;
+        width: 4.5rem;
+        font-family: Inter, 'Source Sans Pro';
+        justify-content: center;
+        cursor: pointer;
+        font-size: 2.4rem;
+        align-items: center;
+        display: flex;
+        background-color: #ffffff;
+        flex-shrink: 0;
+        height: 100%;
+        font-weight: 500;
+        line-height: 1.2125;
+        white-space: nowrap;
+      }
+      .component-6-2py {
+        line-height: 1.2125;
+        justify-content: center;
+        width: 4.5rem;
+        font-size: 2.4rem;
+        font-family: Inter, 'Source Sans Pro';
+        display: flex;
+        align-items: center;
+        height: 100%;
+        white-space: nowrap;
+        color: #000000;
+        background-color: #ffffff;
+        flex-shrink: 0;
+        cursor: pointer;
+        font-weight: 500;
+      }
+      .component-7-X13 {
+        width: 4.5rem;
+        font-size: 2.4rem;
+        line-height: 1.2125;
+        align-items: center;
+        color: #000000;
+        flex-shrink: 0;
+        height: 100%;
+        font-weight: 500;
+        display: flex;
+        justify-content: center;
+        cursor: pointer;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        background-color: #ffffff;
+      }
+      .component-8-3EH {
+        color: #000000;
+        cursor: pointer;
+        font-size: 2.4rem;
+        font-weight: 500;
+        white-space: nowrap;
+        display: flex;
+        justify-content: center;
+        width: 4.5rem;
+        height: 100%;
+        align-items: center;
+        flex-shrink: 0;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        background-color: #ffffff;
+      }
+    }
+    .frame-8-LjB {
+      display: flex;
+      column-gap: 1rem;
+      align-items: center;
+      width: 21rem;
+      height: 5rem;
+      position: absolute;
+      left: 28.1rem;
+      top: 22.7rem;
+
+      .component-1-fmT {
+        font-weight: 500;
+        color: #000000;
+        align-items: center;
+        justify-content: center;
+        background-color: #ffffff;
+        width: 4.5rem;
+        height: 100%;
+        flex-shrink: 0;
+        cursor: pointer;
+        font-size: 2.4rem;
+        display: flex;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .component-3-mZb {
+        background-color: #ffffff;
+        font-family: Inter, 'Source Sans Pro';
+        align-items: center;
+        width: 4.5rem;
+        font-size: 2.4rem;
+        color: #000000;
+        white-space: nowrap;
+        justify-content: center;
+        flex-shrink: 0;
+        cursor: pointer;
+        font-weight: 500;
+        line-height: 1.2125;
+        height: 100%;
+        display: flex;
+      }
+      .component-4-54V {
+        line-height: 1.2125;
+        white-space: nowrap;
+        align-items: center;
+        flex-shrink: 0;
+        width: 4.5rem;
+        cursor: pointer;
+        font-size: 2.4rem;
+        background-color: #ffffff;
+        height: 100%;
+        font-family: Inter, 'Source Sans Pro';
+        display: flex;
+        font-weight: 500;
+        color: #000000;
+        justify-content: center;
+      }
+      .component-5-P5B {
+        background-color: #ffffff;
+        height: 100%;
+        line-height: 1.2125;
+        color: #000000;
+        align-items: center;
+        justify-content: center;
+        font-family: Inter, 'Source Sans Pro';
+        width: 4.5rem;
+        white-space: nowrap;
+        display: flex;
+        cursor: pointer;
+        font-size: 2.4rem;
+        font-weight: 500;
+        flex-shrink: 0;
+      }
+    }
+    .sun-mon-5ih {
+      width: 38.7rem;
+      height: 2.4rem;
+      position: absolute;
+      left: 10.2rem;
+      top: 21.6rem;
+      display: flex;
+      column-gap: 1.2rem;
+      align-items: center;
+
+      .day-CoK {
+        align-items: center;
+        width: 4.5rem;
+        height: 100%;
+        font-size: 1.6rem;
+        font-weight: 500;
+        color: #696969;
+        white-space: nowrap;
+        display: flex;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        justify-content: center;
+        background-color: #ffffff;
+        flex-shrink: 0;
+      }
+      .day-Xqb {
+        font-size: 1.6rem;
+        font-weight: 500;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        display: flex;
+        background-color: #ffffff;
+        height: 100%;
+        flex-shrink: 0;
+        color: #696969;
+        align-items: center;
+        justify-content: center;
+        width: 4.5rem;
+      }
+      .day-fS1 {
+        color: #696969;
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        font-weight: 500;
+        line-height: 1.2125;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #ffffff;
+        width: 4.5rem;
+        height: 100%;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .day-ZGV {
+        white-space: nowrap;
+        justify-content: center;
+        background-color: #ffffff;
+        flex-shrink: 0;
+        font-size: 1.6rem;
+        height: 100%;
+        font-weight: 500;
+        line-height: 1.2125;
+        color: #696969;
+        font-family: Inter, 'Source Sans Pro';
+        display: flex;
+        align-items: center;
+        width: 4.5rem;
+      }
+      .day-SbB {
+        align-items: center;
+        width: 4.5rem;
+        height: 100%;
+        font-size: 1.6rem;
+        color: #696969;
+        display: flex;
+        justify-content: center;
+        background-color: #ffffff;
+        flex-shrink: 0;
+        font-weight: 500;
+        line-height: 1.2125;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .day-krm {
+        font-weight: 500;
+        line-height: 1.2125;
+        color: #696969;
+        white-space: nowrap;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 4.5rem;
+        height: 100%;
+        font-size: 1.6rem;
+        font-family: Inter, 'Source Sans Pro';
+        background-color: #ffffff;
+        flex-shrink: 0;
+      }
+      .day-dQm {
+        font-weight: 500;
+        line-height: 1.2125;
+        color: #696969;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        display: flex;
+        justify-content: center;
+        font-size: 1.6rem;
+        background-color: #ffffff;
+        height: 100%;
+        align-items: center;
+        flex-shrink: 0;
+        width: 4.5rem;
+      }
+    }
+    .month-ut5 {
+      position: absolute;
+      left: 10.2rem;
+      top: 16.7rem;
+      display: flex;
+      align-items: center;
+      width: 37.4rem;
+      height: 3.2rem;
+
+      .nov-2023-2C1 {
+        font-size: 2.2rem;
+        font-weight: 600;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        margin-right: 19.4rem;
+      }
+      .group-1-XeZ {
+        height: 100%;
+        display: flex;
+        align-items: center;
+        border-radius: 1.6rem;
+        flex-shrink: 0;
+
+        .frame-2-6Bs {
+          flex-shrink: 0;
+          margin-right: 1.2rem;
+          width: 3.2rem;
+          height: 3.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          border-radius: 1.6rem;
+        }
+        .frame-1-PAy {
+          width: 3.2rem;
+          height: 3.2rem;
+          object-fit: contain;
+          vertical-align: top;
+          border-radius: 1.6rem;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .informasi-pemesanan-24-nov-2023-76y {
+      width: 43.5rem;
+      top: 10.9rem;
+      font-size: 2.5rem;
+      font-weight: 700;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      height: 3.1rem;
+      position: absolute;
+      left: 54.3rem;
+      color: #000000;
+      white-space: nowrap;
+    }
+    .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-tujuan-destinasi-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-aWM {
+      font-size: 2.4rem;
+      font-weight: 500;
+      line-height: 1.2125;
+      color: #000000;
+      height: 26.2rem;
+      left: 54.3rem;
+      top: 15.4rem;
+      font-family: Inter, 'Source Sans Pro';
+      width: 75.1rem;
+      position: absolute;
+
+      .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-tujuan-destinasi-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-aWM-sub-0 {
+      }
+      .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-tujuan-destinasi-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-aWM-sub-1 {
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.2125;
+      }
+      .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-tujuan-destinasi-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-aWM-sub-2 {
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-tujuan-destinasi-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-aWM-sub-3 {
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-tujuan-destinasi-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-aWM-sub-4 {
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.4rem;
+        font-weight: 400;
+      }
+      .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-tujuan-destinasi-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-aWM-sub-5 {
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-tujuan-destinasi-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-aWM-sub-6 {
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+      }
+      .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-tujuan-destinasi-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-aWM-sub-7 {
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.2125;
+      }
+      .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-tujuan-destinasi-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-aWM-sub-8 {
+        font-size: 2.4rem;
+        font-weight: 400;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+      }
+    }
+    .frame-1-z89 {
+      position: absolute;
+      border-radius: 1.2rem;
+      height: 4.4rem;
+      left: 54.3rem;
+      font-weight: 500;
+      color: #ffffff;
+      align-items: center;
+      font-family: Inter, 'Source Sans Pro';
+      display: flex;
+      justify-content: center;
+      background-color: #3986d8;
+      width: 68.1rem;
+      top: 44.5rem;
+      font-size: 2rem;
+      line-height: 1.2125;
+      white-space: nowrap;
+    }
+    .rectangle-10-Up1 {
+      border-radius: 2rem;
+      width: 12.6rem;
+      height: 3.5rem;
+      position: absolute;
+      left: 72.7rem;
+      top: 56.8rem;
+      box-shadow: 0 0.4rem 0.4rem #3a86d4;
+      background-color: #f2f2f2;
+    }
+    .selanjutnya--ByK {
+      font-weight: 400;
+      color: #000000;
+      position: absolute;
+      top: 57.6rem;
+      left: 73.8rem;
+      font-size: 1.6rem;
+      line-height: 1.2125;
+      font-family: Inter, 'Source Sans Pro';
+      white-space: nowrap;
+      width: 10.3rem;
+      height: 2rem;
+    }
+    .rectangle-52-UxR {
+      height: 3.5rem;
+      position: absolute;
+      left: 58.7rem;
+      top: 56.8rem;
+      box-shadow: 0 0.4rem 0.4rem #3a86d4;
+      background-color: #e3e3e3;
+      border-radius: 2rem;
+      width: 12.7rem;
+    }
+    .sebelumnya-akZ {
+      line-height: 1.2125;
+      color: #000000;
+      font-family: Inter, 'Source Sans Pro';
+      width: 10.8rem;
+      position: absolute;
+      left: 59.7rem;
+      top: 57.6rem;
+      font-weight: 400;
+      height: 2rem;
+      font-size: 1.6rem;
+      white-space: nowrap;
+    }
+    .rectangle-51-ekR {
+      width: 144rem;
+      height: 66.5rem;
+      position: absolute;
+      left: 0;
+      top: 0;
+      background-color: rgba(217, 217, 217, 0.6000000238);
+    }
+    .group-26-Pi1 {
+      height: 39.7rem;
+      left: 44.8rem;
+      box-sizing: border-box;
+      padding: 3.7rem 3.2rem 4.1rem 3.6rem;
+      width: 54.3rem;
+      position: absolute;
+      top: 11.3rem;
+      background-color: #ffffff;
+      border-radius: 4.2rem;
+
+      .tujuan-destinasi-pemesanan-UzM {
+        margin-bottom: 0.8rem;
+        font-size: 2.4rem;
+        font-weight: 700;
+        line-height: 1.2125;
+        color: #000000;
+        font-family: Inter, 'Source Sans Pro';
+        white-space: nowrap;
+      }
+      .frame-13-nVF {
+        height: 2.2rem;
+        font-weight: 500;
+        line-height: 1.2125;
+        color: #ffffff;
+        white-space: nowrap;
+        margin: 0rem 0rem 3.4rem 0.2rem;
+        width: 11.7rem;
+        font-size: 1.8rem;
+        align-items: center;
+        font-family: Inter, 'Source Sans Pro';
+        background-color: #4fd839;
+        display: flex;
+        justify-content: center;
+        border-radius: 1.2rem;
+      }
+      .pemandu-destinasi-bryan-kamil-durasi-1-hari-jumlah-orang-4hf {
+        font-family: Inter, 'Source Sans Pro';
+        margin: 0rem 0rem 9.3rem 0.5rem;
+        max-width: 37.3rem;
+        font-size: 2.4rem;
+        font-weight: 500;
+        line-height: 1.2102272511;
+        color: #000000;
+
+        .pemandu-destinasi-bryan-kamil-durasi-1-hari-jumlah-orang-4hf-sub-0 {
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 700;
+        }
+        .pemandu-destinasi-bryan-kamil-durasi-1-hari-jumlah-orang-4hf-sub-1 {
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+        }
+        .pemandu-destinasi-bryan-kamil-durasi-1-hari-jumlah-orang-4hf-sub-2 {
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 700;
+          line-height: 1.2125;
+        }
+        .pemandu-destinasi-bryan-kamil-durasi-1-hari-jumlah-orang-4hf-sub-3 {
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+          font-weight: 400;
+          line-height: 1.2125;
+        }
+        .pemandu-destinasi-bryan-kamil-durasi-1-hari-jumlah-orang-4hf-sub-4 {
+          font-size: 2.4rem;
+          font-weight: 700;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+        }
+        .pemandu-destinasi-bryan-kamil-durasi-1-hari-jumlah-orang-4hf-sub-5 {
+          font-weight: 400;
+          line-height: 1.2125;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          font-size: 2.4rem;
+        }
+      }
+      .auto-group-ip5b-qNy {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        height: 4.4rem;
+
+        .frame-15-arM {
+          font-weight: 500;
+          white-space: nowrap;
+          flex-shrink: 0;
+          width: 23.3rem;
+          display: flex;
+          justify-content: center;
+          background-color: #d83939;
+          font-family: Inter, 'Source Sans Pro';
+          height: 100%;
+          border-radius: 1.2rem;
+          margin-right: 0.9rem;
+          font-size: 2rem;
+          line-height: 1.2125;
+          color: #ffffff;
+          align-items: center;
+          cursor: pointer;
+        }
+        .frame-14-e5X {
+          align-items: center;
+          justify-content: center;
+          color: #ffffff;
+          font-family: Inter, 'Source Sans Pro';
+          display: flex;
+          background-color: #3986d8;
+          height: 100%;
+          font-size: 2rem;
+          white-space: nowrap;
+          width: 23.3rem;
+          border-radius: 1.2rem;
+          flex-shrink: 0;
+          cursor: pointer;
+          font-weight: 500;
+          line-height: 1.2125;
+        }
+      }
+    }
+  }
+  .footer-hJh {
+    box-sizing: border-box;
+    padding: 1.2rem 1.6rem 0rem 0rem;
+    width: 145.6rem;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+    flex-shrink: 0;
+
+    .layer-2-2-Qyo {
+      margin: 3.9rem 27.5rem 0rem 0rem;
+      width: 36.3rem;
+      height: 18.9rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .copyright-XHj {
+      width: 2rem;
+      height: 2rem;
+      object-fit: contain;
+      vertical-align: top;
+      flex-shrink: 0;
+      margin: 0rem 0.3rem 1.2rem 0rem;
+    }
+    .auto-group-hgiv-rL1 {
+      margin: 0rem 27.4rem 3.2rem 0rem;
+      width: 14.2rem;
+      flex-shrink: 0;
+
+      .auto-group-7aj5-amo {
+        position: relative;
+        margin-bottom: 4.9rem;
+        width: 100%;
+        height: 11.9rem;
+
+        .webcrafters-LFB {
+          left: 0;
+          font-size: 1.6rem;
+          line-height: 1.2125;
+          height: 2rem;
+          position: absolute;
+          font-weight: 500;
+          color: #000000;
+          font-family: Inter, 'Source Sans Pro';
+          white-space: nowrap;
+          width: 14.2rem;
+          top: 9.9rem;
+        }
+        .logo-destinasyik-3-dVB {
+          width: 11.4rem;
+          height: 11.4rem;
+          position: absolute;
+          left: 0.2rem;
+          top: 0;
+          object-fit: cover;
+          vertical-align: top;
+        }
+      }
+      .auto-group-ow8d-ZNq {
+        margin-left: 0.6rem;
+        display: flex;
+        align-items: center;
+
+        .instagram-4aV {
+          margin-right: 0.9rem;
+          width: 2.8rem;
+          height: 2.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .tiktok-QPT {
+          height: 2.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-right: 1.3rem;
+          width: 2.8rem;
+        }
+        .whatsapp-M3o {
+          width: 2.8rem;
+          height: 2.8rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+    }
+    .layer-2-1-s29 {
+      flex-shrink: 0;
+      margin-top: 3.9rem;
+      width: 36.3rem;
+      height: 18.9rem;
+      object-fit: cover;
+      vertical-align: top;
+    }
+  }
+}

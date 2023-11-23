@@ -1,0 +1,756 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.wisata-H8u {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.wisata-H8u .header-cS5 {
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.wisata-H8u .header-cS5 .rectangle-4-Z6R {
+  width: 150.5rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #ffffff;
+}
+.wisata-H8u .header-cS5 .logo-destinasyik-2-3nH {
+  width: 11.6rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wisata-H8u .header-cS5 .beranda-B7o {
+  width: 9.8rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 86rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wisata-H8u .header-cS5 .kontak-smK {
+  width: 8.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 97.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wisata-H8u .header-cS5 .tentang-BX7 {
+  width: 9.7rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 107.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wisata-H8u .header-cS5 .tour-guide-H4M {
+  width: 12.9rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 118.9rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wisata-H8u .header-cS5 .male-user-PdB {
+  width: 5.8rem;
+  height: 5.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.6rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.wisata-H8u .auto-group-s1hs-Ued {
+  box-sizing: border-box;
+  padding: 4.3rem 8.5rem 4.3rem 7.1rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-x61f-m7w {
+  margin: 0rem 10.5rem 4.4rem 8.2rem;
+  width: calc(100% - 18.7rem);
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-x61f-m7w .auto-group-sv3p-3bF {
+  width: 3.8rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #f2f2f2;
+  border-radius: 2rem 0 0 2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-x61f-m7w .rectangle-33-wAq {
+  width: 0.2rem;
+  height: 3.5rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-x61f-m7w .auto-group-c34u-eqw {
+  width: 16.8rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #010101;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-x61f-m7w .auto-group-kzf3-9Xo {
+  margin-right: 48.6rem;
+  width: 12.1rem;
+  height: 100%;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3a86d4;
+  border-radius: 0 2rem 2rem 0;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-x61f-m7w .auto-group-njyk-pdw {
+  box-sizing: border-box;
+  padding: 0.3rem 10rem 0.2rem 1.6rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #f2f2f2;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-x61f-m7w .auto-group-njyk-pdw .search-vws {
+  margin: 0.2rem 5.7rem 0rem 0rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-x61f-m7w .auto-group-njyk-pdw .search-rqX {
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #7e7e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-3-wMB {
+  margin-bottom: 4.3rem;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  width: 100%;
+  height: 24.6rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-3-wMB .image-1-gJm {
+  margin-right: 4.5rem;
+  width: 52.7rem;
+  height: 21.6rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-3-wMB .frame-2-QVf {
+  width: 68.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-3-wMB .frame-2-QVf .auto-group-tm9t-Mvh {
+  box-sizing: border-box;
+  padding-bottom: 6.1rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-3-wMB .frame-2-QVf .auto-group-tm9t-Mvh .pantai-parangtritis-4aD {
+  margin-bottom: 1.8rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-3-wMB .frame-2-QVf .auto-group-tm9t-Mvh .keindahan-pasir-putih-ombak-menarik-dan-nuansa-mistis-aktivitas-seru-dan-budaya-bersatu-dalam-destinasi-singkat-Buj {
+  max-width: 64.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-3-wMB .frame-2-QVf .frame-1-HSy {
+  width: 100%;
+  height: 4.4rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3986d8;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-4-x3K {
+  margin-bottom: 4.3rem;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  width: 100%;
+  height: 22.5rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-4-x3K .image-2-HbP {
+  margin-right: 4.5rem;
+  width: 52.7rem;
+  height: 19.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-4-x3K .frame-2-Djw {
+  width: 68.2rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-4-x3K .frame-2-Djw .auto-group-xpoj-8ru {
+  box-sizing: border-box;
+  padding-bottom: 4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-4-x3K .frame-2-Djw .auto-group-xpoj-8ru .candi-prambanan-eaM {
+  margin-bottom: 1.8rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-4-x3K .frame-2-Djw .auto-group-xpoj-8ru .keindahan-hindu-abad-ke-9-di-yogyakarta-siluet-megah-dan-relief-ukiran-menciptakan-potret-budaya-indonesia-yang-memukau-BKP {
+  max-width: 63.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-4-x3K .frame-2-Djw .frame-1-Gbj {
+  width: 100%;
+  height: 4.4rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3986d8;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-5-vAV {
+  margin-bottom: 4.3rem;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  width: 100%;
+  height: 22.4rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-5-vAV .image-2-3W1 {
+  margin-right: 4.5rem;
+  width: 52.2rem;
+  height: 19.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-5-vAV .frame-2-ZjF {
+  width: 68.7rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-5-vAV .frame-2-ZjF .auto-group-7gqw-KiR {
+  box-sizing: border-box;
+  padding-bottom: 3.9rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-5-vAV .frame-2-ZjF .auto-group-7gqw-KiR .keraton-jogja-UrD {
+  margin-bottom: 1.8rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-5-vAV .frame-2-ZjF .auto-group-7gqw-KiR .keelokan-arsitektur-jawa-kehijauan-taman-dan-pesona-sejarah-yang-terpancar-suasana-hangat-dan-detail-artistik-yang-memikat-perhatian-cBj {
+  max-width: 66.9rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-5-vAV .frame-2-ZjF .frame-1-HHs {
+  width: 100%;
+  height: 4.4rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3986d8;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-7-kSM {
+  margin-bottom: 4.3rem;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  width: 100%;
+  height: 22.5rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-7-kSM .image-4-JCy {
+  margin-right: 4.5rem;
+  width: 51.9rem;
+  height: 19.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-7-kSM .frame-2-W49 {
+  width: 69rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-7-kSM .frame-2-W49 .auto-group-efc5-G3K {
+  box-sizing: border-box;
+  padding-bottom: 4rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-7-kSM .frame-2-W49 .auto-group-efc5-G3K .taman-sari-RB7 {
+  margin-bottom: 1.8rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-7-kSM .frame-2-W49 .auto-group-efc5-G3K .istana-air-yang-memesona-dengan-arsitektur-istimewa-dan-keindahan-taman-yang-menakjubkan-suasana-magis-dan-penuh-sejarah-L3B {
+  max-width: 66rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-7-kSM .frame-2-W49 .frame-1-19K {
+  width: 100%;
+  height: 4.4rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3986d8;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-8-zmw {
+  margin-bottom: 4.3rem;
+  box-sizing: border-box;
+  padding: 1.5rem;
+  width: 100%;
+  height: 22.5rem;
+  display: flex;
+  align-items: center;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 1.5rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-8-zmw .image-6-9Pw {
+  margin-right: 4.5rem;
+  width: 51.9rem;
+  height: 19.5rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-8-zmw .frame-2-erV {
+  width: 69rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-8-zmw .frame-2-erV .auto-group-mlz7-Qam {
+  box-sizing: border-box;
+  padding-bottom: 1.6rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-8-zmw .frame-2-erV .auto-group-mlz7-Qam .malioboro-ZCm {
+  margin-bottom: 1.8rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-8-zmw .frame-2-erV .auto-group-mlz7-Qam .jalan-ikonik-di-yogyakarta-pusat-perbelanjaan-dan-hiburan-malam-dengan-suasana-khas-pedagang-kaki-lima-dan-lampu-neon-yang-menarik-6Tb {
+  max-width: 63rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .frame-8-zmw .frame-2-erV .frame-1-NR7 {
+  width: 100%;
+  height: 4.4rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3986d8;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-sq3s-Ey7 {
+  margin: 0rem 52.2rem 0rem 51.5rem;
+  width: calc(100% - 103.7rem);
+  height: 3.5rem;
+  display: flex;
+  column-gap: 2.1rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-sq3s-Ey7 .auto-group-kjq9-7X7 {
+  width: 4.6rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #f2f2f2;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-sq3s-Ey7 .auto-group-y36q-zL1 {
+  width: 4.6rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #f2f2f2;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-sq3s-Ey7 .auto-group-zolu-3ZB {
+  width: 4.6rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #f2f2f2;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .auto-group-s1hs-Ued .auto-group-sq3s-Ey7 .auto-group-fzl5-YF3 {
+  width: 4.6rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #f2f2f2;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .footer-owf {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 0rem 0rem;
+  width: 145.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.wisata-H8u .footer-owf .layer-2-2-8yw {
+  margin: 3.9rem 27.5rem 0rem 0rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wisata-H8u .footer-owf .copyright-3r1 {
+  margin: 0rem 0.3rem 1.2rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wisata-H8u .footer-owf .auto-group-3rys-nHo {
+  margin: 0rem 27.4rem 3.2rem 0rem;
+  width: 14.2rem;
+  flex-shrink: 0;
+}
+.wisata-H8u .footer-owf .auto-group-3rys-nHo .auto-group-axiu-86m {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+}
+.wisata-H8u .footer-owf .auto-group-3rys-nHo .auto-group-axiu-86m .webcrafters-sa9 {
+  width: 14.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 9.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.wisata-H8u .footer-owf .auto-group-3rys-nHo .auto-group-axiu-86m .logo-destinasyik-3-nx1 {
+  width: 11.4rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.wisata-H8u .footer-owf .auto-group-3rys-nHo .auto-group-jvqq-8W5 {
+  margin-left: 0.6rem;
+  display: flex;
+  align-items: center;
+}
+.wisata-H8u .footer-owf .auto-group-3rys-nHo .auto-group-jvqq-8W5 .instagram-4Pj {
+  margin-right: 0.9rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wisata-H8u .footer-owf .auto-group-3rys-nHo .auto-group-jvqq-8W5 .tiktok-BUM {
+  margin-right: 1.3rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wisata-H8u .footer-owf .auto-group-3rys-nHo .auto-group-jvqq-8W5 .whatsapp-R7o {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.wisata-H8u .footer-owf .layer-2-1-Mn9 {
+  margin-top: 3.9rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

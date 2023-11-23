@@ -1,0 +1,900 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.detail-tempat-wisata--8ad {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.detail-tempat-wisata--8ad .header-EtZ {
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .header-EtZ .rectangle-4-nQH {
+  width: 150.5rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #ffffff;
+}
+.detail-tempat-wisata--8ad .header-EtZ .logo-destinasyik-2-ty7 {
+  width: 11.6rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.detail-tempat-wisata--8ad .header-EtZ .beranda-zmF {
+  width: 9.8rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 86rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .header-EtZ .kontak-R5s {
+  width: 8.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 97.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .header-EtZ .tentang-Xub {
+  width: 9.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 107.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .header-EtZ .tour-guide-qQV {
+  width: 12.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 118.9rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .header-EtZ .male-user-MNq {
+  width: 5.8rem;
+  height: 5.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.6rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq {
+  margin-bottom: 2.5rem;
+  width: 168.5rem;
+  height: 76.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .rectangle-20-cJm {
+  width: 51rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 47.3rem;
+  top: 25.4rem;
+  background-color: #3a86d4;
+  border-radius: 1rem;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .image-10-Kiy {
+  width: 144rem;
+  height: 66.4rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .instagram-rD7 {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 59.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .love-yHj {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 59rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .navbar-detail-vCy {
+  box-sizing: border-box;
+  padding: 2rem 8.8rem 0rem 37.2rem;
+  width: 162.8rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 0;
+  top: 68.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .navbar-detail-vCy .auto-group-pwuw-PsF {
+  margin-right: 58rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .navbar-detail-vCy .auto-group-pwuw-PsF .detail-LnV {
+  margin-right: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #3a86d4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .navbar-detail-vCy .auto-group-pwuw-PsF .lokasi-FeZ {
+  margin-right: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .navbar-detail-vCy .auto-group-pwuw-PsF .harga-zs3 {
+  margin-right: 2.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .navbar-detail-vCy .auto-group-pwuw-PsF .foto-kLR {
+  margin-right: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .navbar-detail-vCy .auto-group-pwuw-PsF .review-Voo {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .navbar-detail-vCy .rectangle-44-ctR {
+  margin: 0rem 107.7rem 1.5rem 0rem;
+  width: 9.1rem;
+  height: 0.2rem;
+  background-color: #3a86d4;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .navbar-detail-vCy .rectangle-46-9dT {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-nvrw-5Jq .candi-prambanan-6Yh {
+  width: 55.5rem;
+  height: 7.8rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 58.1rem;
+  font-size: 6.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .candi-prambanan-MzR {
+  margin: 0rem 75.2rem 1.8rem 0rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .adalah-kompleks-candi-hindu-terbesar-di-indonesia-yang-dibangun-pada-abad-ke-9-masehi-candi-ini-dipersembahkan-untuk-trimurti-tiga-dewa-utama-hindu-yaitu-brahma-sebagai-dewa-pencipta-wishnu-sebagai-dewa-pemelihara-dan-siwa-sebagai-dewa-pemusnah-berdasarkan-prasati-siwagrha-nama-asli-kompleks-candi-ini-adalah-siwagrha-bahsa-sansekerta-yang-bermakna-rumah-siwa-dan-memang-di-garbagriha-ruang-utama-candi-ini-bersemayam-arca-siwa-mahadewa-setinggi-tiga-meter-yang-menujukkan-bahwa-di-candi-ini-dewa-siwa-lebih-diutamakan-kompleks-candi-ini-terletak-di-kecamatan-prambana-desa-bokoharjo-sleman-daerah-istimewa-yogyakarta-dan-kecamatan-prambanan-klaten-jawa-tengah-kurang-lebih-17-kilometer-timur-laut-yogyakarta-50-kilometer-barat-daya-surakarta-dan-120-kilometer-selatan-semaranag-persis-di-perbatasan-antara-provinsi-jawa-tengah-dan-daerah-istimewa-yogyakarta-letaknya-sangat-unik-candi-prambanan-terletak-di-wilayah-administrasi-desa-bokoharjo-prambanan-sleman-sedangkan-pintu-masuk-kompleks-candi-prambanan-terletak-di-wilayah-adminstrasi-desa-tlogo-prambanan-klaten-jawa-tengah-tUZ {
+  margin-right: 2.2rem;
+  max-width: 116.4rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX {
+  width: 100%;
+  height: 226.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .lokasi-SgR {
+  width: 10.2rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.7rem;
+  top: 11.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .harga-A6d {
+  width: 9.4rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.7rem;
+  top: 66.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .foto-3w7 {
+  width: 6.9rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.7rem;
+  top: 116.8rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .ulasan-yJy {
+  width: 10.8rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.7rem;
+  top: 190.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .auto-group-n793-QfB {
+  width: 112.9rem;
+  height: 38.4rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 18.3rem;
+  display: flex;
+  align-items: flex-start;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .auto-group-n793-QfB .image-24-LYq {
+  margin-right: 1.3rem;
+  width: 67rem;
+  height: 38.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .auto-group-n793-QfB .jl-raya-solo-yogyakarta-no16-kranggan-bokoharjo-kec-prambanan-kabupaten-sleman-daerah-istimewa-yogyakarta-55571-Uf3 {
+  max-width: 44.6rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .rectangle-40-ZgV {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 63.8rem;
+  background-color: #000000;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .rectangle-41-Vq3 {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 113.8rem;
+  background-color: #000000;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .rectangle-43-End {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 187.3rem;
+  background-color: #000000;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 {
+  width: 117rem;
+  height: 33rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 73.6rem;
+  border-bottom: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.25);
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm {
+  margin-bottom: 0.1rem;
+  width: 100%;
+  height: 32.9rem;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu {
+  width: 116.9rem;
+  height: 100%;
+  position: relative;
+  border-top: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .rectangle-44-aED {
+  width: 116.8rem;
+  height: 32.9rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .rectangle-45-iLR {
+  width: 116.9rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #eaeaea;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .line-13-Too {
+  width: 0.05rem;
+  height: 32.9rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  object-fit: contain;
+  vertical-align: top;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .keterangan-PSZ {
+  width: 13.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 1.8rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .line-1-t8R {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 6.9rem;
+  background-color: #000000;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .line-12-foP {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  background-color: #000000;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .line-5-Qky {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 19.9rem;
+  background-color: #000000;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .harga-kK3 {
+  width: 7.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 1.6rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .usia-10-tahun-keatas-rp10000-fgu {
+  width: 37.1rem;
+  height: 6rem;
+  position: absolute;
+  left: 64.8rem;
+  top: 7.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .usia-3-10-tahun-rp25000-ZnH {
+  width: 32.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 64.9rem;
+  top: 12.5rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .usia-10-tahun-keatas-rp375000-dn9 {
+  width: 38.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 64.9rem;
+  top: 20.1rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .usia-3-10-tahun-rp225000-YeD {
+  width: 34rem;
+  height: 6rem;
+  position: absolute;
+  left: 64.8rem;
+  top: 25.9rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .tiket-masuk-warga-negara-indonesia-pLq {
+  width: 43.6rem;
+  height: 6rem;
+  position: absolute;
+  left: 5rem;
+  top: 7.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-10-Za1 .auto-group-sqpo-VCm .auto-group-czr7-SNu .tiket-masuk-warga-negara-asing-g89 {
+  width: 38.9rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 20.2rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .auto-group-qrqd-KS1 {
+  box-sizing: border-box;
+  padding: 3.5rem 3rem 3.7rem 4.3rem;
+  width: 116.7rem;
+  height: 56.5rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 124.5rem;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .auto-group-qrqd-KS1 .frame-9-2LR {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  box-shadow: 0 0.4rem 0.4rem rgba(0, 0, 0, 0.25);
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .auto-group-qrqd-KS1 .frame-9-2LR .image-24-kXK {
+  margin: 0.4rem 1.9rem 0rem 0rem;
+  width: 79.2rem;
+  height: 49.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .auto-group-qrqd-KS1 .frame-9-2LR .image-22-sbw {
+  width: 79.2rem;
+  height: 50.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .klik-untuk-menuju-maps-kvd {
+  width: 18.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 34.1rem;
+  top: 57.4rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty {
+  width: 116.7rem;
+  height: 24.2rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 196.4rem;
+  overflow: hidden;
+  display: flex;
+  column-gap: 1.5rem;
+  align-items: center;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-11-BFF {
+  box-sizing: border-box;
+  padding: 3.1rem 2.6rem 2.4rem 1.4rem;
+  width: 55.6rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-11-BFF .auto-group-q5so-gxh {
+  margin: 0rem 29.7rem 0.8rem 0rem;
+  width: calc(100% - 29.7rem);
+  display: flex;
+  align-items: flex-start;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-11-BFF .auto-group-q5so-gxh .male-user-CRF {
+  width: 5.8rem;
+  height: 5.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-11-BFF .auto-group-q5so-gxh .auto-group-z33w-XiR {
+  margin-top: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-11-BFF .auto-group-q5so-gxh .auto-group-z33w-XiR .andi123-gbK {
+  margin: 0rem 0rem 0.7rem 1.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-11-BFF .auto-group-q5so-gxh .auto-group-z33w-XiR .image-removebg-preview-2-17o {
+  width: 16.1rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-11-BFF .tempat-yang-sangat-menarik-untuk-dikunjungi-lokasi-yang-strategis-dan-juga-pemandangan-yang-indah-cocok-untuk-liburan-dengan-teman-maupun-keluarga-Y7j {
+  margin-left: 7rem;
+  max-width: 44.6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-12-zkR {
+  box-sizing: border-box;
+  padding: 3.1rem 2.6rem 2.4rem 1.4rem;
+  width: 55.6rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-12-zkR .auto-group-zd6q-WCy {
+  margin: 0rem 29.7rem 0.8rem 0rem;
+  width: calc(100% - 29.7rem);
+  display: flex;
+  align-items: flex-start;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-12-zkR .auto-group-zd6q-WCy .male-user-doP {
+  width: 5.8rem;
+  height: 5.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-12-zkR .auto-group-zd6q-WCy .auto-group-d8do-z89 {
+  margin-top: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-12-zkR .auto-group-zd6q-WCy .auto-group-d8do-z89 .andi123-wJH {
+  margin: 0rem 0rem 0.7rem 1.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-12-zkR .auto-group-zd6q-WCy .auto-group-d8do-z89 .image-removebg-preview-2-GbT {
+  width: 16.1rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-12-zkR .tempat-yang-sangat-menarik-untuk-dikunjungi-lokasi-yang-strategis-dan-juga-pemandangan-yang-indah-cocok-untuk-liburan-dengan-teman-maupun-keluarga-yVs {
+  margin-left: 7rem;
+  max-width: 44.6rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-13-Rcm {
+  box-sizing: border-box;
+  padding: 3.1rem 0rem 9.6rem 1.4rem;
+  width: 158.2rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-13-Rcm .auto-group-skp5-kuw {
+  margin: 0rem 134.9rem 0.8rem 0rem;
+  width: calc(100% - 134.9rem);
+  display: flex;
+  align-items: flex-start;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-13-Rcm .auto-group-skp5-kuw .male-user-Vcd {
+  width: 5.8rem;
+  height: 5.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-13-Rcm .auto-group-skp5-kuw .auto-group-ohf7-FLu {
+  margin-top: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-13-Rcm .auto-group-skp5-kuw .auto-group-ohf7-FLu .andi123-bvZ {
+  margin: 0rem 0rem 0.7rem 1.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-13-Rcm .auto-group-skp5-kuw .auto-group-ohf7-FLu .image-removebg-preview-2-ikH {
+  width: 16.1rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .frame-14-Gty .frame-13-Rcm .tempat-yang-sangat-menarik-untuk-dikunjungi-lokasi-yang-strategis-dan-juga-pemandangan-yang-indah-cocok-untuk-liburan-dengan-teman-maupun-keluarga-pHX {
+  margin-left: 7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .auto-group-cudk-9BX .rectangle-39-VeZ {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 8.5rem;
+  background-color: #000000;
+}
+.detail-tempat-wisata--8ad .footer-E6M {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 0rem 0rem;
+  width: 145.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .footer-E6M .layer-2-2-XbF {
+  margin: 3.9rem 27.5rem 0rem 0rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .footer-E6M .copyright-RwX {
+  margin: 0rem 0.3rem 1.2rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .footer-E6M .auto-group-vfbf-xgZ {
+  margin: 0rem 27.4rem 3.2rem 0rem;
+  width: 14.2rem;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .footer-E6M .auto-group-vfbf-xgZ .auto-group-aadx-gMf {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+}
+.detail-tempat-wisata--8ad .footer-E6M .auto-group-vfbf-xgZ .auto-group-aadx-gMf .webcrafters-2gR {
+  width: 14.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 9.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.detail-tempat-wisata--8ad .footer-E6M .auto-group-vfbf-xgZ .auto-group-aadx-gMf .logo-destinasyik-3-woP {
+  width: 11.4rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.detail-tempat-wisata--8ad .footer-E6M .auto-group-vfbf-xgZ .auto-group-k9aq-5ub {
+  margin-left: 0.6rem;
+  display: flex;
+  align-items: center;
+}
+.detail-tempat-wisata--8ad .footer-E6M .auto-group-vfbf-xgZ .auto-group-k9aq-5ub .instagram-EXb {
+  margin-right: 0.9rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .footer-E6M .auto-group-vfbf-xgZ .auto-group-k9aq-5ub .tiktok-nJD {
+  margin-right: 1.3rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .footer-E6M .auto-group-vfbf-xgZ .auto-group-k9aq-5ub .whatsapp-VTX {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.detail-tempat-wisata--8ad .footer-E6M .layer-2-1-2yF {
+  margin-top: 3.9rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

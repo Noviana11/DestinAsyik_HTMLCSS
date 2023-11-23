@@ -1,0 +1,1082 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.lokasi-non-wisata--ZjP {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.lokasi-non-wisata--ZjP .header-HfP {
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .header-HfP .rectangle-4-SHP {
+  width: 150.5rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #ffffff;
+}
+.lokasi-non-wisata--ZjP .header-HfP .logo-destinasyik-2-ZN1 {
+  width: 11.6rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.lokasi-non-wisata--ZjP .header-HfP .beranda-fR3 {
+  width: 9.8rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 86rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .header-HfP .kontak-JD7 {
+  width: 8.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 97.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .header-HfP .tentang-off {
+  width: 9.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 107.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .header-HfP .tour-guide-jJR {
+  width: 12.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 118.9rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .header-HfP .male-user-SyX {
+  width: 5.8rem;
+  height: 5.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.6rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh {
+  margin-bottom: 2.5rem;
+  width: 168.5rem;
+  height: 76.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .rectangle-20-KXX {
+  width: 51rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 47.3rem;
+  top: 25.4rem;
+  background-color: #3a86d4;
+  border-radius: 1rem;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .image-10-r1f {
+  width: 144rem;
+  height: 66.4rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 145.749%;
+  background-position: 0 -30.3773rem;
+  background-image: url('../assets/image-10-ged.png');
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .instagram-5v1 {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 59.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .love-QxH {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 59rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .navbar-detail-jUm {
+  box-sizing: border-box;
+  padding: 2rem 8.8rem 0rem 37.2rem;
+  width: 162.8rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 0;
+  top: 68.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .navbar-detail-jUm .auto-group-f8im-1hB {
+  margin-right: 58rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .navbar-detail-jUm .auto-group-f8im-1hB .detail-9Hb {
+  margin-right: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .navbar-detail-jUm .auto-group-f8im-1hB .lokasi-gYR {
+  margin-right: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #3a86d4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .navbar-detail-jUm .auto-group-f8im-1hB .harga-od3 {
+  margin-right: 2.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .navbar-detail-jUm .auto-group-f8im-1hB .foto-8fK {
+  margin-right: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .navbar-detail-jUm .auto-group-f8im-1hB .review-gRw {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .navbar-detail-jUm .rectangle-44-RuK {
+  margin: 0rem 82.1rem 1.5rem 0rem;
+  width: 9.9rem;
+  height: 0.2rem;
+  background-color: #3a86d4;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-rnbb-nGh .navbar-detail-jUm .rectangle-46-Mny {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .carney-co-hrq {
+  margin-left: 12.7rem;
+  cursor: pointer;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu {
+  width: 100%;
+  height: 288.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-cz3p-m61 {
+  width: 116.7rem;
+  height: 97.5rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 1.8rem;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-cz3p-m61 .lokasi-fSH {
+  width: 10.2rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 0;
+  top: 52.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-cz3p-m61 .coffee-shop-yang-tengah-naik-daun-di-kalangan-kaum-muda-jogja-jelajahi-dunianya-melalui-media-sosial-di-mana-foto-foto-dan-video-memukau-memancing-rasa-penasaran-anda-terhadap-keunikan-cafe-ini-terletak-strategis-di-pusat-kota-jogja-dan-berdekatan-dengan-berbagai-kampus-carney-co-menjadi-magnet-bagi-para-mahasiswa-yang-ingin-mengerjakan-tugas-atau-sekadar-nongkrong-mengisi-waktu-luang-menawarkan-ketenangan-dengan-lokasi-yang-tersembunyi-dari-keramaian-jalan-besar-cafe-ini-menyajikan-suasana-yang-cocok-untuk-berbagai-kegiatan-bukan-hanya-para-mahasiswa-lokal-tapi-juga-wisatawan-turut-mencicipi-pesona-carney-co-bangunan-cafe-yang-estetik-dan-instagrammable-membuatnya-jadi-daya-tarik-tersendiri-menjadi-surga-bagi-para-pecinta-foto-konsep-minimalis-carney-co-didominasi-oleh-warna-putih-dan-dekorasi-kontras-yang-memukau-di-kamera-tidak-heran-jika-area-outdoor-dengan-bean-bag-berwarna-warni-menjadi-favorit-banyak-pengunjung-menciptakan-pengalaman-tak-terlupakan-di-setiap-kunjungan-b53 {
+  width: 116.3rem;
+  height: 64.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-cz3p-m61 .image-24-f6q {
+  width: 67rem;
+  height: 38.4rem;
+  position: absolute;
+  left: 0;
+  top: 59.1rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-24-bg-rEd.png');
+  border-radius: 1rem;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-cz3p-m61 .jam-buka-1000-0000-wib-jl-garuni-ii-kledokan-caturtunggal-kec-depok-kabupaten-sleman-daerah-istimewa-yogyakarta-55281-921 {
+  width: 48.1rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 68.3rem;
+  top: 59.1rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-cz3p-m61 .jam-buka-1000-0000-wib-jl-garuni-ii-kledokan-caturtunggal-kec-depok-kabupaten-sleman-daerah-istimewa-yogyakarta-55281-921 .jam-buka-1000-0000-wib-jl-garuni-ii-kledokan-caturtunggal-kec-depok-kabupaten-sleman-daerah-istimewa-yogyakarta-55281-921-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-cz3p-m61 .jam-buka-1000-0000-wib-jl-garuni-ii-kledokan-caturtunggal-kec-depok-kabupaten-sleman-daerah-istimewa-yogyakarta-55281-921 .jam-buka-1000-0000-wib-jl-garuni-ii-kledokan-caturtunggal-kec-depok-kabupaten-sleman-daerah-istimewa-yogyakarta-55281-921-sub-1 {
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-cz3p-m61 .rectangle-39-djo {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 49.3rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .harga-9i9 {
+  width: 9.4rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.7rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-u3um-fRb {
+  width: 116.8rem;
+  height: 73.7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 168.9rem;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-u3um-fRb .foto-oGu {
+  width: 6.9rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 9.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-u3um-fRb .rectangle-41-L1w {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 6.5rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-u3um-fRb .rectangle-42-sXf {
+  width: 116.7rem;
+  height: 56.5rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 17.2rem;
+  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-u3um-fRb .frame-9-nuX {
+  width: 109.4rem;
+  height: 49.3rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 20.9rem;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-u3um-fRb .frame-9-nuX .image-23-UXT {
+  margin: 0.4rem 1.9rem 0rem 0rem;
+  width: 79.2rem;
+  height: 49.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .auto-group-u3um-fRb .frame-9-nuX .image-22-CiM {
+  width: 79.2rem;
+  height: 50.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .ulasan-Z37 {
+  width: 10.8rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.7rem;
+  top: 251.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .rectangle-40-rH7 {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 106.4rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .rectangle-43-ysX {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 248.9rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .line-11-Xe9 {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 168.6rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M {
+  width: 117rem;
+  height: 52.4rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 116.2rem;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.25);
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT {
+  width: 116.9rem;
+  height: 100%;
+  position: relative;
+  border-left: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .rectangle-44-Uho {
+  width: 116.8rem;
+  height: 52.3rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .rectangle-45-q2Z {
+  width: 116.9rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #eaeaea;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .line-2-BMK {
+  width: 0.1rem;
+  height: 52.4rem;
+  position: absolute;
+  left: 58.5rem;
+  top: 0;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .keterangan-Xg5 {
+  width: 13.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 1.8rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .line-1-PyB {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 6.9rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .line-12-Krq {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .line-4-FVb {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 13.4rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .line-5-BPF {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 19.9rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .line-6-XT7 {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 26.4rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .line-7-U7T {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 32.9rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .line-8-1t5 {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 39.4rem;
+  background-color: #3a86d4;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .line-9-mMT {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 39.4rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .line-10-6Pj {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 45.9rem;
+  background-color: #000000;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .harga-F1j {
+  width: 7.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 1.6rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .rp10000-LYy {
+  width: 11.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 7.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .rp100000-30-menit-EeM {
+  width: 25.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 62.8rem;
+  top: 46.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .rp50000-30-menit-MU5 {
+  width: 24.4rem;
+  height: 6rem;
+  position: absolute;
+  left: 62.7rem;
+  top: 39.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .rp70000-qe9 {
+  width: 11.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 33.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .rp30000-McV {
+  width: 11.9rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 26.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .rp10000-VTo {
+  width: 11.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 20.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .rp3000-D8u {
+  width: 10.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.8rem;
+  top: 13.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .tiket-masuk-pantai-Jg9 {
+  width: 22.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 7.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .fasilitas-andong-dTX {
+  width: 19.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 26.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .penyewaan-motor-atv-besar-teM {
+  width: 34rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 46.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .penyewaan-motor-atv-kecil-zhP {
+  width: 33rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 39.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .fasilitas-sandboarding-KUm {
+  width: 26.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 33.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .parkir-roda-empat-qT7 {
+  width: 21.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 20.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-10-F4M .auto-group-ba4h-xjT .parkir-roda-dua-Lem {
+  width: 18.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 5rem;
+  top: 13.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .klik-untuk-menuju-maps-o2Z {
+  width: 18.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 34.1rem;
+  top: 100rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH {
+  width: 116.7rem;
+  height: 24.2rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 258rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-11-FQM {
+  margin-right: 1.5rem;
+  box-sizing: border-box;
+  padding: 3.1rem 1.9rem 2.4rem 1.4rem;
+  width: 55.6rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-11-FQM .auto-group-usxj-kru {
+  margin: 0rem 30.4rem 0.8rem 0rem;
+  width: calc(100% - 30.4rem);
+  display: flex;
+  align-items: flex-start;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-11-FQM .auto-group-usxj-kru .male-user-6A5 {
+  width: 5.8rem;
+  height: 5.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-11-FQM .auto-group-usxj-kru .auto-group-vmpu-eBb {
+  margin-top: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-11-FQM .auto-group-usxj-kru .auto-group-vmpu-eBb .dina111-NdP {
+  margin: 0rem 0rem 0.7rem 1.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-11-FQM .auto-group-usxj-kru .auto-group-vmpu-eBb .image-removebg-preview-2-JX3 {
+  width: 16.1rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-11-FQM .unik-banget-tempatnya-ada-juga-ayunan-dan-kolam-kecil-dipinggir-sawah-lantai-duanya-juga-bisa-buat-working-space-rekomended-banget-buat-santai-sore-disini-3Dj {
+  margin-left: 7rem;
+  max-width: 45.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-12-EZ7 {
+  margin-right: 1.4rem;
+  width: 55.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-12-EZ7 .rectangle-46-xzu {
+  width: 55.6rem;
+  height: 24.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-12-EZ7 .male-user-7cu {
+  width: 5.8rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-12-EZ7 .image-removebg-preview-2-f8d {
+  width: 12.4rem;
+  height: 3.4rem;
+  position: relative;
+  left: 7.2rem;
+  top: 7.9rem;
+  background-size: 129.839% 102.426%;
+  background-position: 0 -0.0412rem;
+  background-image: url('../assets/image-removebg-preview-2-rmf.png');
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-12-EZ7 .cukup-kaget-tempat-yg-oke-biasanya-makanannya-ga-enak-aku-pesen-nasi-goreng-seafoodsop-igapisang-coklat-keju-semua-enaak-bgt-sop-iga-dagingnya-banyaakk-XwX {
+  width: 47.3rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 12.1rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-12-EZ7 .rani222-Piq {
+  width: 7.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 4.7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-13-xbT {
+  box-sizing: border-box;
+  padding: 3.1rem 0rem 9.6rem 1.4rem;
+  width: 158.2rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-13-xbT .auto-group-1hwf-oc5 {
+  margin: 0rem 134.9rem 0.8rem 0rem;
+  width: calc(100% - 134.9rem);
+  display: flex;
+  align-items: flex-start;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-13-xbT .auto-group-1hwf-oc5 .male-user-V7X {
+  width: 5.8rem;
+  height: 5.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-13-xbT .auto-group-1hwf-oc5 .auto-group-wfnh-za5 {
+  margin-top: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-13-xbT .auto-group-1hwf-oc5 .auto-group-wfnh-za5 .andi123-7Po {
+  margin: 0rem 0rem 0.7rem 1.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-13-xbT .auto-group-1hwf-oc5 .auto-group-wfnh-za5 .image-removebg-preview-2-8ph {
+  width: 16.1rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .auto-group-hfiq-ciu .frame-14-urH .frame-13-xbT .tempat-yang-sangat-menarik-untuk-dikunjungi-lokasi-yang-strategis-dan-juga-pemandangan-yang-indah-cocok-untuk-liburan-dengan-teman-maupun-keluarga-MSZ {
+  margin-left: 7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .footer-HDj {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 0rem 0rem;
+  width: 145.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .layer-2-2-XNy {
+  margin: 3.9rem 27.5rem 0rem 0rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .copyright-xDP {
+  margin: 0rem 0.3rem 1.2rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .auto-group-m1wh-qny {
+  margin: 0rem 27.4rem 3.2rem 0rem;
+  width: 14.2rem;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .auto-group-m1wh-qny .auto-group-pvgm-wb7 {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .auto-group-m1wh-qny .auto-group-pvgm-wb7 .webcrafters-PT7 {
+  width: 14.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 9.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .auto-group-m1wh-qny .auto-group-pvgm-wb7 .logo-destinasyik-3-31s {
+  width: 11.4rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .auto-group-m1wh-qny .auto-group-8slh-vbT {
+  margin-left: 0.6rem;
+  display: flex;
+  align-items: center;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .auto-group-m1wh-qny .auto-group-8slh-vbT .instagram-Cos {
+  margin-right: 0.9rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .auto-group-m1wh-qny .auto-group-8slh-vbT .tiktok-4r5 {
+  margin-right: 1.3rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .auto-group-m1wh-qny .auto-group-8slh-vbT .whatsapp-XDs {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.lokasi-non-wisata--ZjP .footer-HDj .layer-2-1-w2h {
+  margin-top: 3.9rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

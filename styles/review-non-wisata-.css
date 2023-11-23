@@ -1,0 +1,1082 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.review-non-wisata--JGy {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.review-non-wisata--JGy .header-3Ny {
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .header-3Ny .rectangle-4-9S1 {
+  width: 150.5rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #ffffff;
+}
+.review-non-wisata--JGy .header-3Ny .logo-destinasyik-2-nE5 {
+  width: 11.6rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.review-non-wisata--JGy .header-3Ny .beranda-bSR {
+  width: 9.8rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 86rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .header-3Ny .kontak-qLm {
+  width: 8.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 97.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .header-3Ny .tentang-g6V {
+  width: 9.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 107.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .header-3Ny .tour-guide-j4m {
+  width: 12.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 118.9rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .header-3Ny .male-user-7r1 {
+  width: 5.8rem;
+  height: 5.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.6rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF {
+  margin-bottom: 2.5rem;
+  width: 168.5rem;
+  height: 76.1rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .rectangle-20-48y {
+  width: 51rem;
+  height: 8.2rem;
+  position: absolute;
+  left: 47.3rem;
+  top: 25.4rem;
+  background-color: #3a86d4;
+  border-radius: 1rem;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .image-10-88q {
+  width: 144rem;
+  height: 66.4rem;
+  position: relative;
+  left: 0;
+  top: 0;
+  background-size: 100% 145.749%;
+  background-position: 0 -30.3773rem;
+  background-image: url('../assets/image-10-CLq.png');
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .instagram-zgq {
+  width: 5.2rem;
+  height: 5.2rem;
+  position: absolute;
+  left: 124.4rem;
+  top: 59.4rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .love-1bw {
+  width: 6rem;
+  height: 6rem;
+  position: absolute;
+  left: 132.5rem;
+  top: 59rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .navbar-detail-XKP {
+  box-sizing: border-box;
+  padding: 2rem 8.8rem 0rem 37.2rem;
+  width: 162.8rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 0;
+  top: 68.4rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .navbar-detail-XKP .auto-group-wk61-hdB {
+  margin-right: 58rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .navbar-detail-XKP .auto-group-wk61-hdB .detail-DbX {
+  margin-right: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .navbar-detail-XKP .auto-group-wk61-hdB .lokasi-VJ9 {
+  margin-right: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .navbar-detail-XKP .auto-group-wk61-hdB .harga-c7s {
+  margin-right: 2.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .navbar-detail-XKP .auto-group-wk61-hdB .foto-Fgd {
+  margin-right: 3.1rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .navbar-detail-XKP .auto-group-wk61-hdB .review-Aob {
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #3a86d4;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .navbar-detail-XKP .rectangle-44-rRX {
+  margin: 0rem 57.5rem 1.5rem 48rem;
+  width: calc(100% - 105.5rem);
+  height: 0.2rem;
+  background-color: #3a86d4;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-kaav-nhF .navbar-detail-XKP .rectangle-46-t7K {
+  width: 100%;
+  height: 0.1rem;
+  background-color: #000000;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .carney-co-93F {
+  margin-left: 12.7rem;
+  cursor: pointer;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 {
+  width: 100%;
+  height: 288.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-hkx1-6Mo {
+  width: 116.7rem;
+  height: 97.5rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 1.8rem;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-hkx1-6Mo .lokasi-jff {
+  width: 10.2rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 52.3rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-hkx1-6Mo .coffee-shop-yang-tengah-naik-daun-di-kalangan-kaum-muda-jogja-jelajahi-dunianya-melalui-media-sosial-di-mana-foto-foto-dan-video-memukau-memancing-rasa-penasaran-anda-terhadap-keunikan-cafe-ini-terletak-strategis-di-pusat-kota-jogja-dan-berdekatan-dengan-berbagai-kampus-carney-co-menjadi-magnet-bagi-para-mahasiswa-yang-ingin-mengerjakan-tugas-atau-sekadar-nongkrong-mengisi-waktu-luang-menawarkan-ketenangan-dengan-lokasi-yang-tersembunyi-dari-keramaian-jalan-besar-cafe-ini-menyajikan-suasana-yang-cocok-untuk-berbagai-kegiatan-bukan-hanya-para-mahasiswa-lokal-tapi-juga-wisatawan-turut-mencicipi-pesona-carney-co-bangunan-cafe-yang-estetik-dan-instagrammable-membuatnya-jadi-daya-tarik-tersendiri-menjadi-surga-bagi-para-pecinta-foto-konsep-minimalis-carney-co-didominasi-oleh-warna-putih-dan-dekorasi-kontras-yang-memukau-di-kamera-tidak-heran-jika-area-outdoor-dengan-bean-bag-berwarna-warni-menjadi-favorit-banyak-pengunjung-menciptakan-pengalaman-tak-terlupakan-di-setiap-kunjungan-k4y {
+  width: 116.3rem;
+  height: 64.1rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-hkx1-6Mo .image-24-6py {
+  width: 67rem;
+  height: 38.4rem;
+  position: absolute;
+  left: 0;
+  top: 59.1rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/image-24-bg-KyT.png');
+  border-radius: 1rem;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-hkx1-6Mo .jam-buka-1000-0000-wib-jl-garuni-ii-kledokan-caturtunggal-kec-depok-kabupaten-sleman-daerah-istimewa-yogyakarta-55281-HPf {
+  width: 48.1rem;
+  height: 17.5rem;
+  position: absolute;
+  left: 68.3rem;
+  top: 59.1rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-hkx1-6Mo .jam-buka-1000-0000-wib-jl-garuni-ii-kledokan-caturtunggal-kec-depok-kabupaten-sleman-daerah-istimewa-yogyakarta-55281-HPf .jam-buka-1000-0000-wib-jl-garuni-ii-kledokan-caturtunggal-kec-depok-kabupaten-sleman-daerah-istimewa-yogyakarta-55281-HPf-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-hkx1-6Mo .jam-buka-1000-0000-wib-jl-garuni-ii-kledokan-caturtunggal-kec-depok-kabupaten-sleman-daerah-istimewa-yogyakarta-55281-HPf .jam-buka-1000-0000-wib-jl-garuni-ii-kledokan-caturtunggal-kec-depok-kabupaten-sleman-daerah-istimewa-yogyakarta-55281-HPf-sub-1 {
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-hkx1-6Mo .rectangle-39-DCm {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0;
+  top: 49.3rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .harga-v7B {
+  width: 9.4rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 12.7rem;
+  top: 109.4rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-xexb-J7j {
+  width: 116.8rem;
+  height: 73.7rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 168.9rem;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-xexb-J7j .foto-zWM {
+  width: 6.9rem;
+  height: 3.9rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 9.5rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-xexb-J7j .rectangle-41-PHb {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 6.5rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-xexb-J7j .rectangle-42-HNy {
+  width: 116.7rem;
+  height: 56.5rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 17.2rem;
+  box-shadow: 0 0 1.5rem rgba(0, 0, 0, 0.25);
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-xexb-J7j .frame-9-N9X {
+  width: 109.4rem;
+  height: 49.3rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 20.9rem;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-start;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-xexb-J7j .frame-9-N9X .image-23-ExR {
+  margin: 0.4rem 1.9rem 0rem 0rem;
+  width: 79.2rem;
+  height: 49.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .auto-group-xexb-J7j .frame-9-N9X .image-22-JSV {
+  width: 79.2rem;
+  height: 50.1rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .ulasan-6QH {
+  width: 10.8rem;
+  height: 3.9rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 251.9rem;
+  font-size: 3.2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .rectangle-40-s3f {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 106.4rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .rectangle-43-aCy {
+  width: 116.7rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 248.9rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .line-11-h2h {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 12.7rem;
+  top: 168.6rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah {
+  width: 117rem;
+  height: 52.4rem;
+  position: absolute;
+  left: 12.6rem;
+  top: 116.2rem;
+  border-right: solid 0.1rem #000000;
+  box-sizing: border-box;
+  box-shadow: 0 0 2rem rgba(0, 0, 0, 0.25);
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB {
+  width: 116.9rem;
+  height: 100%;
+  position: relative;
+  border-left: solid 0.1rem #000000;
+  box-sizing: border-box;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .rectangle-44-aPK {
+  width: 116.8rem;
+  height: 52.3rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  background-color: #ffffff;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .rectangle-45-ETs {
+  width: 116.9rem;
+  height: 6.8rem;
+  position: absolute;
+  left: 0;
+  top: 0.1rem;
+  background-color: #eaeaea;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .line-2-idw {
+  width: 0.1rem;
+  height: 52.4rem;
+  position: absolute;
+  left: 58.5rem;
+  top: 0;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .keterangan-2uX {
+  width: 13.6rem;
+  height: 3rem;
+  position: absolute;
+  left: 21.6rem;
+  top: 1.8rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .line-1-GJ5 {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 6.9rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .line-12-Z2H {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0.1rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .line-4-EPK {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 13.4rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .line-5-F3X {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 19.9rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .line-6-Hku {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 26.4rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .line-7-AJu {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 32.9rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .line-8-ejs {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 39.4rem;
+  background-color: #3a86d4;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .line-9-BE1 {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 39.4rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .line-10-GmF {
+  width: 116.8rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 45.9rem;
+  background-color: #000000;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .harga-zhF {
+  width: 7.1rem;
+  height: 3rem;
+  position: absolute;
+  left: 84.9rem;
+  top: 1.6rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .rp10000-pwB {
+  width: 11.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 7.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .rp100000-30-menit-JrM {
+  width: 25.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 62.8rem;
+  top: 46.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .rp50000-30-menit-Ykh {
+  width: 24.4rem;
+  height: 6rem;
+  position: absolute;
+  left: 62.7rem;
+  top: 39.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .rp70000-bDB {
+  width: 11.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 33.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .rp30000-9P7 {
+  width: 11.9rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 26.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .rp10000-PYM {
+  width: 11.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.9rem;
+  top: 20.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .rp3000-fVs {
+  width: 10.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 61.8rem;
+  top: 13.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .tiket-masuk-pantai-3mK {
+  width: 22.3rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 7.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .fasilitas-andong-skM {
+  width: 19.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 26.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .penyewaan-motor-atv-besar-X4D {
+  width: 34rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 46.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .penyewaan-motor-atv-kecil-xQR {
+  width: 33rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 39.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .fasilitas-sandboarding-zM7 {
+  width: 26.8rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 33.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .parkir-roda-empat-q6q {
+  width: 21.5rem;
+  height: 6rem;
+  position: absolute;
+  left: 4.8rem;
+  top: 20.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-10-Zah .auto-group-lwxb-2jB .parkir-roda-dua-g7T {
+  width: 18.7rem;
+  height: 6rem;
+  position: absolute;
+  left: 5rem;
+  top: 13.3rem;
+  text-align: right;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 2.5;
+  text-transform: capitalize;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .klik-untuk-menuju-maps-DWh {
+  width: 18.5rem;
+  height: 2rem;
+  position: absolute;
+  left: 34.1rem;
+  top: 100rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s {
+  width: 116.7rem;
+  height: 24.2rem;
+  position: absolute;
+  left: 12.8rem;
+  top: 258rem;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-11-JwT {
+  margin-right: 1.5rem;
+  box-sizing: border-box;
+  padding: 3.1rem 1.9rem 2.4rem 1.4rem;
+  width: 55.6rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-11-JwT .auto-group-tgad-xFK {
+  margin: 0rem 30.4rem 0.8rem 0rem;
+  width: calc(100% - 30.4rem);
+  display: flex;
+  align-items: flex-start;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-11-JwT .auto-group-tgad-xFK .male-user-Dh3 {
+  width: 5.8rem;
+  height: 5.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-11-JwT .auto-group-tgad-xFK .auto-group-bdkm-e1f {
+  margin-top: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-11-JwT .auto-group-tgad-xFK .auto-group-bdkm-e1f .dina111-joo {
+  margin: 0rem 0rem 0.7rem 1.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-11-JwT .auto-group-tgad-xFK .auto-group-bdkm-e1f .image-removebg-preview-2-RRj {
+  width: 16.1rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-11-JwT .unik-banget-tempatnya-ada-juga-ayunan-dan-kolam-kecil-dipinggir-sawah-lantai-duanya-juga-bisa-buat-working-space-rekomended-banget-buat-santai-sore-disini-eZP {
+  margin-left: 7rem;
+  max-width: 45.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-12-ZTP {
+  margin-right: 1.4rem;
+  width: 55.7rem;
+  height: 100%;
+  position: relative;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-12-ZTP .rectangle-46-fWR {
+  width: 55.6rem;
+  height: 24.2rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  background-color: #ffffff;
+  border-radius: 2rem;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-12-ZTP .male-user-LMf {
+  width: 5.8rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-12-ZTP .image-removebg-preview-2-P53 {
+  width: 12.4rem;
+  height: 3.4rem;
+  position: relative;
+  left: 7.2rem;
+  top: 7.9rem;
+  background-size: 129.839% 102.426%;
+  background-position: 0 -0.0412rem;
+  background-image: url('../assets/image-removebg-preview-2-FQu.png');
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-12-ZTP .cukup-kaget-tempat-yg-oke-biasanya-makanannya-ga-enak-aku-pesen-nasi-goreng-seafoodsop-igapisang-coklat-keju-semua-enaak-bgt-sop-iga-dagingnya-banyaakk-1cD {
+  width: 47.3rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 12.1rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-12-ZTP .rani222-969 {
+  width: 7.9rem;
+  height: 2.5rem;
+  position: absolute;
+  left: 8.4rem;
+  top: 4.7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-13-Cq7 {
+  box-sizing: border-box;
+  padding: 3.1rem 0rem 9.6rem 1.4rem;
+  width: 158.2rem;
+  height: 100%;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-13-Cq7 .auto-group-f1rk-cP3 {
+  margin: 0rem 134.9rem 0.8rem 0rem;
+  width: calc(100% - 134.9rem);
+  display: flex;
+  align-items: flex-start;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-13-Cq7 .auto-group-f1rk-cP3 .male-user-sZs {
+  width: 5.8rem;
+  height: 5.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-13-Cq7 .auto-group-f1rk-cP3 .auto-group-lwpm-bVs {
+  margin-top: 1.6rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-13-Cq7 .auto-group-f1rk-cP3 .auto-group-lwpm-bVs .andi123-V5T {
+  margin: 0rem 0rem 0.7rem 1.2rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-13-Cq7 .auto-group-f1rk-cP3 .auto-group-lwpm-bVs .image-removebg-preview-2-iyo {
+  width: 16.1rem;
+  height: 3.4rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .auto-group-asof-nc1 .frame-14-r3s .frame-13-Cq7 .tempat-yang-sangat-menarik-untuk-dikunjungi-lokasi-yang-strategis-dan-juga-pemandangan-yang-indah-cocok-untuk-liburan-dengan-teman-maupun-keluarga-ESM {
+  margin-left: 7rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .footer-zZw {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 0rem 0rem;
+  width: 145.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .footer-zZw .layer-2-2-GnM {
+  margin: 3.9rem 27.5rem 0rem 0rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .footer-zZw .copyright-NKb {
+  margin: 0rem 0.3rem 1.2rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .footer-zZw .auto-group-fvuu-aAm {
+  margin: 0rem 27.4rem 3.2rem 0rem;
+  width: 14.2rem;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .footer-zZw .auto-group-fvuu-aAm .auto-group-y1cm-Sim {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+}
+.review-non-wisata--JGy .footer-zZw .auto-group-fvuu-aAm .auto-group-y1cm-Sim .webcrafters-ZoP {
+  width: 14.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 9.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.review-non-wisata--JGy .footer-zZw .auto-group-fvuu-aAm .auto-group-y1cm-Sim .logo-destinasyik-3-xqX {
+  width: 11.4rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.review-non-wisata--JGy .footer-zZw .auto-group-fvuu-aAm .auto-group-6xth-4df {
+  margin-left: 0.6rem;
+  display: flex;
+  align-items: center;
+}
+.review-non-wisata--JGy .footer-zZw .auto-group-fvuu-aAm .auto-group-6xth-4df .instagram-wBf {
+  margin-right: 0.9rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .footer-zZw .auto-group-fvuu-aAm .auto-group-6xth-4df .tiktok-YSM {
+  margin-right: 1.3rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .footer-zZw .auto-group-fvuu-aAm .auto-group-6xth-4df .whatsapp-1qj {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.review-non-wisata--JGy .footer-zZw .layer-2-1-XZB {
+  margin-top: 3.9rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

@@ -1,0 +1,1126 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.pembayaran-1-fD3 {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.pembayaran-1-fD3 .header-o4M {
+  margin-bottom: 2.4rem;
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .header-o4M .rectangle-4-Jmo {
+  width: 150.5rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #ffffff;
+}
+.pembayaran-1-fD3 .header-o4M .logo-destinasyik-2-q13 {
+  width: 11.6rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pembayaran-1-fD3 .header-o4M .beranda-xLZ {
+  width: 9.8rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 86rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-1-fD3 .header-o4M .kontak-DnH {
+  width: 8.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 97.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-1-fD3 .header-o4M .tentang-jkd {
+  width: 9.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 107.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-1-fD3 .header-o4M .tour-guide-1CM {
+  width: 12.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 118.9rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-1-fD3 .header-o4M .male-user-W97 {
+  width: 5.8rem;
+  height: 5.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.6rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.pembayaran-1-fD3 .pemesanan-E57 {
+  margin-left: 7.8rem;
+  font-size: 5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm {
+  box-sizing: border-box;
+  padding: 1.5rem 7.8rem 7.1rem 7.8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-c72h-Fku {
+  margin: 0rem 50.5rem 1.4rem 0rem;
+  width: calc(100% - 50.5rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-c72h-Fku .tanggal--nF3 {
+  margin: 0rem 35.3rem 0.9rem 0rem;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-c72h-Fku .pemesanan-24-nov-2023-6mX {
+  margin-top: 0.9rem;
+  cursor: pointer;
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF {
+  margin: 0rem 13.8rem 7rem 0rem;
+  width: calc(100% - 13.8rem);
+  height: 33.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u {
+  margin-right: 3.6rem;
+  box-sizing: border-box;
+  padding: 1.3rem 1.6rem 1.4rem 2.3rem;
+  width: 42.9rem;
+  height: 100%;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .month-oJZ {
+  margin: 0rem 1.5rem 1.7rem 0.1rem;
+  width: calc(100% - 1.6rem);
+  height: 3.2rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .month-oJZ .nov-2023-iwK {
+  margin-right: 19.4rem;
+  font-size: 2.2rem;
+  font-weight: 600;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .month-oJZ .group-1-3To {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .month-oJZ .group-1-3To .frame-2-oSy {
+  margin-right: 1.2rem;
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .month-oJZ .group-1-3To .frame-1-w3P {
+  width: 3.2rem;
+  height: 3.2rem;
+  object-fit: contain;
+  vertical-align: top;
+  border-radius: 1.6rem;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd {
+  width: 100%;
+  height: 16.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-11-hwf {
+  width: 38.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 11.6rem;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-11-hwf .component-1-Df7 {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-11-hwf .component-3-tFT {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-11-hwf .component-4-o7X {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-11-hwf .component-5-uRT {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-11-hwf .component-6-NZw {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-11-hwf .component-7-fow {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-11-hwf .component-8-NiM {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-10-VY5 {
+  width: 38.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 7.1rem;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-10-VY5 .component-1-1mK {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-10-VY5 .component-3-i9w {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-10-VY5 .component-4-QYZ {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-10-VY5 .component-5-4t1 {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-10-VY5 .component-6-ARF {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-10-VY5 .component-7-r3B {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-10-VY5 .component-8-mR3 {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-8-siy {
+  width: 21rem;
+  height: 5rem;
+  position: absolute;
+  left: 18rem;
+  top: 2.2rem;
+  display: flex;
+  column-gap: 1rem;
+  align-items: center;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-8-siy .component-1-yn1 {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-8-siy .component-3-4oT {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-8-siy .component-4-amo {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .frame-8-siy .component-5-sku {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .sun-mon-yZ3 {
+  width: 38.7rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 0.1rem;
+  top: 0;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .sun-mon-yZ3 .day-6df {
+  width: 4.5rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #696969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .sun-mon-yZ3 .day-yBf {
+  width: 4.5rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #696969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .sun-mon-yZ3 .day-fqB {
+  width: 4.5rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #696969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .sun-mon-yZ3 .day-m13 {
+  width: 4.5rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #696969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .sun-mon-yZ3 .day-gdo {
+  width: 4.5rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #696969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .sun-mon-yZ3 .day-cXT {
+  width: 4.5rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #696969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-gvht-BCd .sun-mon-yZ3 .day-Yg1 {
+  width: 4.5rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #696969;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd {
+  margin-right: 0.3rem;
+  width: 38.7rem;
+  height: 9.3rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-12-Z5K {
+  width: 27.3rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 4.3rem;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-12-Z5K .component-1-3WH {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-12-Z5K .component-3-93X {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-12-Z5K .component-4-2d7 {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-12-Z5K .component-5-8w3 {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-12-Z5K .component-6-bZj {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-9-6Fb {
+  width: 38.7rem;
+  height: 5rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-9-6Fb .component-1-neD {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-9-6Fb .component-3-WKK {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-9-6Fb .component-4-pL1 {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-9-6Fb .component-5-WTj {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-9-6Fb .component-6-Rah {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #c1c1c1;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-9-6Fb .component-7-Kvy {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #424242;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #e1edff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-azeu-J6u .auto-group-ams1-fkd .frame-9-6Fb .component-8-RUD {
+  width: 4.5rem;
+  height: 100%;
+  cursor: pointer;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB {
+  width: 68.1rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 {
+  margin-bottom: 5.6rem;
+  max-width: 62rem;
+  font-size: 2.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-0 {
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-1 {
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-2 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-3 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-4 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-5 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-6 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-7 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-8 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-9 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-10 {
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3 .pesanan-yang-anda-pilih-adalah-pada-tanggal-24-november-2023-berikut-ini-adalah-informasi-terkait-pesanan-anda-detail-pemesanan-pemandu-destinasi-bryan-kamil-durasi-1-hari-bahasa-indonesia-objek-destinasi-wisata-dan-non-wisata-Fy3-sub-11 {
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-by4u-nuF .auto-group-exkt-uuB .frame-1-NtZ {
+  width: 100%;
+  height: 4.4rem;
+  cursor: pointer;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #3986d8;
+  border-radius: 2rem;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-zka5-5Y5 {
+  margin: 0 50.9rem;
+  width: calc(100% - 101.8rem);
+  height: 3.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-zka5-5Y5 .auto-group-lha1-QqF {
+  margin-right: 1.3rem;
+  width: 12.7rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #e3e3e3;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .auto-group-i9mk-9xm .auto-group-zka5-5Y5 .auto-group-eeft-E3b {
+  width: 12.6rem;
+  height: 100%;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #f2f2f2;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .footer-JJM {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 0rem 0rem;
+  width: 145.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .footer-JJM .layer-2-2-CPj {
+  margin: 3.9rem 27.5rem 0rem 0rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .footer-JJM .copyright-7mb {
+  margin: 0rem 0.3rem 1.2rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .footer-JJM .auto-group-bmqm-FN1 {
+  margin: 0rem 27.4rem 3.2rem 0rem;
+  width: 14.2rem;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .footer-JJM .auto-group-bmqm-FN1 .auto-group-dgc9-bAy {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+}
+.pembayaran-1-fD3 .footer-JJM .auto-group-bmqm-FN1 .auto-group-dgc9-bAy .webcrafters-LPT {
+  width: 14.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 9.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.pembayaran-1-fD3 .footer-JJM .auto-group-bmqm-FN1 .auto-group-dgc9-bAy .logo-destinasyik-3-eQ9 {
+  width: 11.4rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.pembayaran-1-fD3 .footer-JJM .auto-group-bmqm-FN1 .auto-group-l32h-Xiq {
+  margin-left: 0.6rem;
+  display: flex;
+  align-items: center;
+}
+.pembayaran-1-fD3 .footer-JJM .auto-group-bmqm-FN1 .auto-group-l32h-Xiq .instagram-rWD {
+  margin-right: 0.9rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .footer-JJM .auto-group-bmqm-FN1 .auto-group-l32h-Xiq .tiktok-CKB {
+  margin-right: 1.3rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .footer-JJM .auto-group-bmqm-FN1 .auto-group-l32h-Xiq .whatsapp-k5o {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.pembayaran-1-fD3 .footer-JJM .layer-2-1-HrR {
+  margin-top: 3.9rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}

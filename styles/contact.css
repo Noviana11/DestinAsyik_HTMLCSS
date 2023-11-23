@@ -1,0 +1,361 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.contact-6Ad {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #d9d9d9;
+}
+.contact-6Ad .header-eC9 {
+  margin-bottom: 6.5rem;
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.contact-6Ad .header-eC9 .rectangle-4-PfX {
+  width: 150.5rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+  box-shadow: 0 0.4rem 0.4rem #3a86d4;
+  background-color: #ffffff;
+}
+.contact-6Ad .header-eC9 .logo-destinasyik-2-US5 {
+  width: 11.6rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 2rem;
+  top: 0.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
+.contact-6Ad .header-eC9 .beranda-ojF {
+  width: 9.8rem;
+  height: 3rem;
+  cursor: pointer;
+  position: absolute;
+  left: 86rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-6Ad .header-eC9 .kontak-H8d {
+  width: 8.3rem;
+  height: 3rem;
+  position: absolute;
+  left: 97.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-6Ad .header-eC9 .tentang-wDB {
+  width: 9.7rem;
+  height: 3rem;
+  position: absolute;
+  left: 107.5rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-6Ad .header-eC9 .tour-guide-42u {
+  width: 12.9rem;
+  height: 3rem;
+  position: absolute;
+  left: 118.9rem;
+  top: 4.4rem;
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-6Ad .header-eC9 .male-user-mT7 {
+  width: 5.8rem;
+  height: 5.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 134.6rem;
+  top: 2.6rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.contact-6Ad .form-5Cu {
+  margin: 0rem 8.4rem 6rem 13.4rem;
+  box-sizing: border-box;
+  padding: 1.2rem 4.3rem 5rem 9.6rem;
+  width: calc(100% - 21.8rem);
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-6Ad .form-5Cu .auto-group-6dnh-yp5 {
+  margin-right: 0.2rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem;
+  width: 46rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #7e7e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3a86d4;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-6Ad .form-5Cu .auto-group-q9w9-DiR {
+  margin-bottom: 2.5rem;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.contact-6Ad .form-5Cu .auto-group-q9w9-DiR .auto-group-dced-NLR {
+  margin-right: 11rem;
+  width: 51rem;
+  height: 33rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.contact-6Ad .form-5Cu .auto-group-q9w9-DiR .auto-group-dced-NLR .logo-destinasyik-1-Jzm {
+  width: 28.7rem;
+  height: 26.1rem;
+  position: absolute;
+  left: 9.4rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.contact-6Ad .form-5Cu .auto-group-q9w9-DiR .auto-group-dced-NLR .tempat-terbaik-untuk-menemukan-rekomendasi-pariwisata-dan-tempat-nongkrong-jika-anda-memiliki-pertanyaan-masukan-atau-ingin-berkolaborasi-kami-siap-membantu-qzh {
+  width: 51rem;
+  height: 9.7rem;
+  position: absolute;
+  left: 0;
+  top: 23.3rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+}
+.contact-6Ad .form-5Cu .auto-group-q9w9-DiR .auto-group-vxtb-J7b {
+  margin-top: 2.2rem;
+  width: 46.3rem;
+  row-gap: 2.2rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.contact-6Ad .form-5Cu .auto-group-q9w9-DiR .auto-group-vxtb-J7b .auto-group-ueg1-ih7 {
+  margin: 0rem 0.1rem 0rem 0.2rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem;
+  width: calc(100% - 0.3rem);
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #7e7e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3a86d4;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-6Ad .form-5Cu .auto-group-q9w9-DiR .auto-group-vxtb-J7b .auto-group-3odk-xbT {
+  margin-right: 0.3rem;
+  box-sizing: border-box;
+  padding: 1rem 1.3rem;
+  width: 46rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #7e7e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3a86d4;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-6Ad .form-5Cu .auto-group-q9w9-DiR .auto-group-vxtb-J7b .auto-group-bkuf-377 {
+  margin: 0rem 0.1rem 0rem 0.2rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem;
+  width: calc(100% - 0.3rem);
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #7e7e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3a86d4;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-6Ad .form-5Cu .auto-group-q9w9-DiR .auto-group-vxtb-J7b .auto-group-cvhw-gfs {
+  margin-left: 0.3rem;
+  box-sizing: border-box;
+  padding: 1rem 1.1rem;
+  width: 46rem;
+  height: 16.5rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #7e7e7e;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  border: solid 0.1rem #3a86d4;
+  background-color: #ffffff;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-6Ad .form-5Cu .auto-group-dxox-w61 {
+  margin-right: 16.3rem;
+  width: 11.8rem;
+  height: 4rem;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #1363b4;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.contact-6Ad .footer-QEV {
+  box-sizing: border-box;
+  padding: 1.2rem 1.6rem 0rem 0rem;
+  width: 145.6rem;
+  display: flex;
+  align-items: center;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+.contact-6Ad .footer-QEV .layer-2-2-72R {
+  margin: 3.9rem 27.5rem 0rem 0rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-6Ad .footer-QEV .copyright-agh {
+  margin: 0rem 0.3rem 1.2rem 0rem;
+  width: 2rem;
+  height: 2rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-6Ad .footer-QEV .auto-group-cn49-7Rj {
+  margin: 0rem 27.4rem 3.2rem 0rem;
+  width: 14.2rem;
+  flex-shrink: 0;
+}
+.contact-6Ad .footer-QEV .auto-group-cn49-7Rj .auto-group-b5dt-egZ {
+  margin-bottom: 4.9rem;
+  width: 100%;
+  height: 11.9rem;
+  position: relative;
+}
+.contact-6Ad .footer-QEV .auto-group-cn49-7Rj .auto-group-b5dt-egZ .webcrafters-Pu3 {
+  width: 14.2rem;
+  height: 2rem;
+  position: absolute;
+  left: 0;
+  top: 9.9rem;
+  font-size: 1.6rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.contact-6Ad .footer-QEV .auto-group-cn49-7Rj .auto-group-b5dt-egZ .logo-destinasyik-3-7KF {
+  width: 11.4rem;
+  height: 11.4rem;
+  position: absolute;
+  left: 0.2rem;
+  top: 0;
+  object-fit: cover;
+  vertical-align: top;
+}
+.contact-6Ad .footer-QEV .auto-group-cn49-7Rj .auto-group-hs41-1vR {
+  margin-left: 0.6rem;
+  display: flex;
+  align-items: center;
+}
+.contact-6Ad .footer-QEV .auto-group-cn49-7Rj .auto-group-hs41-1vR .instagram-mPo {
+  margin-right: 0.9rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-6Ad .footer-QEV .auto-group-cn49-7Rj .auto-group-hs41-1vR .tiktok-7Tf {
+  margin-right: 1.3rem;
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-6Ad .footer-QEV .auto-group-cn49-7Rj .auto-group-hs41-1vR .whatsapp-q8m {
+  width: 2.8rem;
+  height: 2.8rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.contact-6Ad .footer-QEV .layer-2-1-mo7 {
+  margin-top: 3.9rem;
+  width: 36.3rem;
+  height: 18.9rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
